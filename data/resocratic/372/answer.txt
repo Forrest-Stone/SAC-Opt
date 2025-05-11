@@ -1,0 +1,5 @@
+{
+    "The number of cream lipsticks to be produced": "0.0",
+    "The number of matte lipsticks to be produced": "60.0",
+    "The total monthly profit": "6000.0"
+}

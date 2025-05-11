@@ -1,0 +1,5 @@
+{
+    "The number of regular tacos": "30.0",
+    "The number of deluxe tacos": "40.0",
+    "The maximum profit": "217.0"
+}

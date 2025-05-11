@@ -1,0 +1,5 @@
+{
+    "The number of sedans to purchase": "0.0",
+    "The number of buses to purchase": "19.0",
+    "The total number of vehicles": "19.0"
+}

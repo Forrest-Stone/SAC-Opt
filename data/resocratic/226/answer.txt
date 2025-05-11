@@ -1,0 +1,5 @@
+{
+    "The number of small kegs": "17.0",
+    "The number of large kegs": "8.0",
+    "The total liters of glacial water transported": "1480.0"
+}

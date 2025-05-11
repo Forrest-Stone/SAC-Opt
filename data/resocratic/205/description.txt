@@ -1,0 +1,1 @@
+You need to construct a rectangular garden. You want to enclose a garden with three sides of fencing and the house as the fourth side. You have 100 feet of fencing material. Determine the dimensions that will maximize the area of the garden.

@@ -1,0 +1,5 @@
+{
+    "The number of basketballs": "250.0",
+    "The number of footballs": "83.0",
+    "The total number of sports equipment produced": "333.0"
+}

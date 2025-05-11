@@ -1,0 +1,5 @@
+{
+    "The number of machine A": "20.0",
+    "The number of machine B": "8.0",
+    "The minimum number of machines": "28.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of sour cherry candies": "10.0",
+    "The number of sour peach candies": "30.0",
+    "The total cost of the candies": "4.6"
+}

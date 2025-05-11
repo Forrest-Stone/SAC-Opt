@@ -1,0 +1,1 @@
+You need to construct a rectangule. The perimeter of the rectangle must be at most 100 square units. What are the dimensions of the rectangle to maximize the area?

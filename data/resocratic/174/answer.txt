@@ -1,0 +1,5 @@
+{
+    "The number of nurses": "0.0",
+    "The number of pharmacists": "29.0",
+    "The total number of workers": "29.0"
+}

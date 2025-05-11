@@ -1,0 +1,5 @@
+{
+    "The length of the rectangle": "15.00000",
+    "The width of the rectangle": "7.50000",
+    "The area of the garden": "112.50000"
+}

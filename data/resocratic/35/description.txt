@@ -1,0 +1,9 @@
+A farmer is planning to plant three types of crops: Wheat, Corn, and Soybeans. The farmer needs to decide how many acres to allocate to each crop, as well as how many hours of labor to invest in each crop per acre. The expected yield per acre, price per kg, and labor cost per hour for each crop are given in the following Table.
+
+| Crop        | Expected Yield per Acre | Price per Kg | Labor Cost per Hour |
+|-------------|-------------------------|--------------|---------------------|
+| Wheat       | 500 kg                  | $0.20        | $10                 |
+| Corn        | 700 kg                  | $0.15        | $12                 |
+| Soybeans    | 400 kg                  | $0.25        | $8                  |
+
+The farmer has a total of 100 acres available for planting. The farmer has a total of 500 hours of labor available. The farmer wants to ensure at least 30 acres are dedicated to Wheat. The hours of labor per acre for each crop should be at least 1. The farmer wants to maximize the net profit per acre.

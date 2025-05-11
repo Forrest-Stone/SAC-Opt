@@ -1,0 +1,5 @@
+{
+    "The number of Klun pills": "5",
+    "The number of Tao pills": "0.0",
+    "The total cost is": "13"
+}

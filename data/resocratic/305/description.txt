@@ -1,0 +1,1 @@
+You need to find a rectangle. The area of the rectangle is 100. Please provide the dimensions of the rectangle that minimizes the perimeter.

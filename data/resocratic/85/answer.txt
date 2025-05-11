@@ -1,0 +1,6 @@
+{
+    "The number of oil stock shares": "333.0",
+    "The number of auto stock shares": "385.0",
+    "The number of pharmaceutical stock shares": "2222.0",
+    "The maximum annual income": "9647.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of mango-lovers packages": "1.0",
+    "The number of regular packages": "5.0",
+    "Net profit": "37.5"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of automatic jacks": "8.0",
+    "The number of gas jacks": "11.0",
+    "The number of cars processed per hour": "84.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of coconut oil units": "300.0",
+    "The number of lavender units": "100.0",
+    "The minimum effective time": "300.0"
+}

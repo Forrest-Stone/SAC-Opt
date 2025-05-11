@@ -1,0 +1,5 @@
+{
+    "The number of medium sized carts": "18.0",
+    "The number of large sized carts": "6.0",
+    "The amount of rice transported": "960.0"
+}

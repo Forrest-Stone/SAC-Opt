@@ -1,0 +1,5 @@
+{
+    "The number of AA batteries to stock": "1000.0",
+    "The number of D batteries to stock": "0.0",
+    "Total profit": "500.0"
+}

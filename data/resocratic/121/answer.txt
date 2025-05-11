@@ -1,0 +1,5 @@
+{
+    "The money invested in apartments": "200000.0",
+    "The money invested in townhouses": "400000.0",
+    "The maximum profit": "80000.0"
+}

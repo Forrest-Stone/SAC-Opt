@@ -1,0 +1,5 @@
+{
+    "The number of salmon meals": "5.0",
+    "The number of egg meals": "3.0",
+    "The sodium intake (mg)": "460.0"
+}

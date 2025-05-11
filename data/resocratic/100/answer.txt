@@ -1,0 +1,5 @@
+{
+    "The number of acres of pumpkins to plant": "25.0",
+    "The number of acres of carrots to plant": "75.0",
+    "The maximum profit": "317.5"
+}

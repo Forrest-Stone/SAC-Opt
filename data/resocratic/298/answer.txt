@@ -1,0 +1,5 @@
+{
+    "The number of staff teachers": "66.0",
+    "The number of substitute teachers": "202.0",
+    "The total number of teachers": "268.0"
+}

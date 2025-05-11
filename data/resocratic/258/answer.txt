@@ -1,0 +1,7 @@
+{
+    "Baking time for Chocolate cake": "10.0",
+    "Baking time for Vanilla cake": "8.00",
+    "Baking time for Strawberry cake": "5.000",
+    "Baking time for Lemon cake": "1.0",
+    "Total Revenue": "833.0"
+}

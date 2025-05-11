@@ -1,0 +1,10 @@
+Vicky and David just bought a farm in the Yarra Valley and are considering using it to grow apples, pears, oranges, and lemons. The profit from growing one acre of apples is $2000, of pears is $1800, of oranges is $2200, and of lemons is $3000. In order to maximize profit, how many acres of land should they use to grow each fruit?
+Vicky and David just bought a farm in the Yarra Valley and are considering using it to grow apples, pears, oranges, and lemons. The total land area is 120 acres.
+
+The land area for growing apples should be at least twice the land area for growing pears.
+
+The land area for growing apples should be at least three times the land area for growing lemons.
+
+The land area for growing oranges must be twice the land area for growing lemons.
+
+Vicky and David are not willing to grow more than two types of fruit.

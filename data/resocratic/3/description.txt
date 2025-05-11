@@ -1,0 +1,1 @@
+A rectangular garden is to be constructed using a rock wall as one side of the garden and wire fencing for the other three sides. Given 100ft of wire fencing, determine the dimensions that would create a garden of maximum area. What is the maximum area?

@@ -1,0 +1,5 @@
+{
+    "Number of acres to grow daikons": "0.0",
+    "Number of acres to grow fennels": "148.0",
+    "Total revenue": "37000.0"
+}

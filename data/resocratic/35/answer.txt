@@ -1,0 +1,9 @@
+{
+    "Number of Wheat Acres": "30.0",
+    "Number of Corn Acres": "70.0",
+    "Number of Soybeans Acres": "0.0",
+    "Hours of Labor per Acre for Wheat": "1.0",
+    "Hours of Labor per Acre for Corn": "1.0",
+    "Hours of Labor per Acre for Soybeans": "1.0",
+    "Total Profit": "9210.0"
+}

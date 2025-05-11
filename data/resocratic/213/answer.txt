@@ -1,0 +1,5 @@
+{
+    "The number of ship trips": "12.0",
+    "The number of plane trips": "1.0",
+    "Total fuel consumed (liters)": "6300.0"
+}

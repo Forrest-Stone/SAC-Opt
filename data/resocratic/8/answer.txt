@@ -1,0 +1,5 @@
+{
+    "The number of golf carts to use": "17.0",
+    "The number of pull carts to use": "12.0",
+    "The total number of carts used": "29.0"
+}

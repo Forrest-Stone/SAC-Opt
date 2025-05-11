@@ -1,0 +1,5 @@
+{
+    "The length of the play area": "50.0000",
+    "The width of the play area": "25.0000",
+    "The maximum area of the play area": "1250.00"
+}

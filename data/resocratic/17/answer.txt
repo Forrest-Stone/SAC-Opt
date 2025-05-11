@@ -1,0 +1,8 @@
+{
+    "The number of acres of winter wheat to plant": "400.0",
+    "The number of acres of rye to plant": "400.0",
+    "The maximum profit": "30800.0",
+    "New optimal number of acres of winter wheat to plant": "200.0",
+    "New optimal number of acres of rye to plant": "600.0",
+    "New maximum profit": "35000.0"
+}

@@ -1,0 +1,1 @@
+You have 400 ft of fencing to construct a rectangular pen for cattle. What are the dimensions of the pen that maximize the area?

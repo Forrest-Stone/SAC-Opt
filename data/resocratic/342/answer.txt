@@ -1,0 +1,5 @@
+{
+    "The number of individual salads to sell": "44.0",
+    "The number of family-sized salads to sell": "0.0",
+    "The maximum profit": "176.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of Model A ovens to purchase": "10.0",
+    "The number of Model B ovens to purchase": "0.0",
+    "Total cost": "100000.0"
+}

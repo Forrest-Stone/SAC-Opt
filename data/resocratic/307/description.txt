@@ -1,0 +1,1 @@
+You are designing a poster to contain a fixed area of 100 square inches, and have margins of 2 inches at the top and bottom and 1 inch at the sides. Find the ratio of vertical dimension to horizontal dimension of the printed area on the poster if you want to minimize the amount of posterboard needed.

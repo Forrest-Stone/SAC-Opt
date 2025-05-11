@@ -1,0 +1,5 @@
+{
+    "The number of bikes needed": "80.0",
+    "The number of cars needed": "53.0",
+    "The total number of vehicles used": "133.0"
+}

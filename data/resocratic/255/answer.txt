@@ -1,0 +1,5 @@
+{
+    "The number of bike shifts": "35.0",
+    "The number of scooter shifts": "5.0",
+    "The total tips received": "1965.0"
+}

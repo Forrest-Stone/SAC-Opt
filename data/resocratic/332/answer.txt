@@ -1,0 +1,5 @@
+{
+    "Acres of Turnips to grow": "125.0",
+    "Acres of Pumpkins to grow": "375.0",
+    "The maximum revenue that can be generated": "206250.0"
+}

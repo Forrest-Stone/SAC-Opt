@@ -1,0 +1,5 @@
+{
+    "The number of chocolate crepes": "1.0",
+    "The number of peanut butter crepes": "2.0",
+    "The amount of crepe mix used": "20.0"
+}

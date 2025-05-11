@@ -1,0 +1,5 @@
+{
+    "The number of small packets": "13.0",
+    "The number of jugs": "41.0",
+    "The total number of units that can be sold": "54.0"
+}

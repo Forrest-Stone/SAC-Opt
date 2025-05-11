@@ -1,0 +1,5 @@
+{
+    "The number of Zodiac pills": "4.0",
+    "The number of Sunny pills": "1.0",
+    "The total cost": "7.0"
+}

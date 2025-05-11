@@ -1,0 +1,6 @@
+{
+    "The number of type A layouts": "0.0",
+    "The number of type B layouts": "28.0",
+    "The number of type C layouts": "88.0",
+    "Total profit": "24700.0"
+}

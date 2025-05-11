@@ -1,0 +1,5 @@
+{
+    "The number of supplement A pills": "8.0",
+    "The number of supplement B pills": "0.0",
+    "The total cost": "16.0"
+}

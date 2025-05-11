@@ -1,0 +1,1 @@
+You are designing a rectangular poster by cutting from a rectangular piece of paper. The poster must have an area of 100 square inches. The top and bottom margins are 2 inches, and the side margins are 1 inch. What dimensions of the poster should you use to minimize the area of paper used?

@@ -1,0 +1,5 @@
+{
+    "The number of large cruise ship trips": "7.0",
+    "The number of small cruise ship trips": "8.0",
+    "Total amount of pollution produced": "260.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The square feet for phone production": "0.0",
+    "The square feet for laptop production": "100.0",
+    "The net revenue": "7000.0"
+}

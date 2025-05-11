@@ -1,0 +1,5 @@
+{
+    "The number of first-class tickets": "20.0",
+    "The number of economy-class tickets": "130.0",
+    "The maximum profit": "48500.0"
+}

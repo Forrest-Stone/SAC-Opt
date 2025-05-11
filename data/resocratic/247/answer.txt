@@ -1,0 +1,5 @@
+{
+    "The number of rural factories": "20.0",
+    "The number of urban factories": "5.0",
+    "The total number of factories": "25.0"
+}

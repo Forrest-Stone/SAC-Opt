@@ -1,0 +1,5 @@
+{
+    "The number of pill vaccines": "142.0",
+    "The number of shot vaccines": "429.0",
+    "The total number of patients vaccinated": "571.0"
+}

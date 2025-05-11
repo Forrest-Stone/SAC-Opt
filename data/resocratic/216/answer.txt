@@ -1,0 +1,5 @@
+{
+    "The number of regular boat trips": "20.0",
+    "The number of speed boat trips": "20.0",
+    "The total amount of gas consumed": "600.0"
+}

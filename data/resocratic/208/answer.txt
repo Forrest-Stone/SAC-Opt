@@ -1,0 +1,5 @@
+{
+    "Square feet for heavy-duty yard machine": "100.0",
+    "Square feet for gas lawn mower": "0.0",
+    "Total time required (seconds)": "200.0"
+}

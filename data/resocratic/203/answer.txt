@@ -1,0 +1,5 @@
+{
+    "The number of hours the northern factory should run": "1000.0",
+    "The number of hours the western factory should run": "0.0",
+    "The total time needed": "1000.0"
+}

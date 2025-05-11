@@ -1,0 +1,5 @@
+{
+    "The number of milk chocolate pieces": "40.0",
+    "The number of dark chocolate pieces": "0.0",
+    "The total cost": "20.0"
+}

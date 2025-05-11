@@ -1,0 +1,8 @@
+{
+    "Amount of Crop A": "153.0",
+    "Amount of Crop B": "20.0",
+    "Amount of Crop C": "20.0",
+    "Amount of Crop D": "20.0",
+    "Amount of Crop E": "20.0",
+    "Max Profit Rate": "4.5550611790878754"
+}

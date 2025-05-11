@@ -1,0 +1,5 @@
+{
+    "The number of large pizzas to make": "629.0",
+    "The number of medium pizzas to make": "314.0",
+    "The total time spent baking": "10060.0"
+}

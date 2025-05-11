@@ -1,0 +1,5 @@
+{
+    "Dollars invested in NFTs": "1250.0",
+    "Dollars invested in crypto-currency": "3750.0",
+    "Total profit": "1875.0"
+}

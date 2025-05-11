@@ -1,0 +1,5 @@
+{
+    "The number of palladium-heavy catalysts": "6.0",
+    "The number of platinum-heavy catalysts": "17.0",
+    "The amount of carbon dioxide converted": "98.0"
+}

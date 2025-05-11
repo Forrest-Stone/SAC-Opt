@@ -1,0 +1,10 @@
+{
+    "Calculus": "0.0",
+    "Operations Research": "1.0",
+    "Data Structures": "1.0",
+    "Business Statistics": "0.0",
+    "Computer Simulation": "1.0",
+    "Introduction to Computer Programming": "1.0",
+    "Forecasting": "0.0",
+    "The minimum number of courses needed": "4.0"
+}

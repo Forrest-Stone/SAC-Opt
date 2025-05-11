@@ -1,0 +1,4 @@
+{
+    "The number of ultrasound technicians": "13",
+    "The number of graduate researchers": "0"
+}

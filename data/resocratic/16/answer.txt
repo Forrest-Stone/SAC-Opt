@@ -1,0 +1,5 @@
+{
+    "Number of bottles of regular wine to make per day": "70.0",
+    "Number of bottles of premium wine to make per day": "50.0",
+    "Maximum profit per day": "3900.0"
+}

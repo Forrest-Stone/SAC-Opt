@@ -1,0 +1,1 @@
+Find two positive numbers whose sum is 300 and whose product is a maximum.

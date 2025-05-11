@@ -1,0 +1,5 @@
+{
+    "The number of bottles of pills": "99.0",
+    "The number of bottles of cream": "134.0",
+    "The total profit": "12990.0"
+}

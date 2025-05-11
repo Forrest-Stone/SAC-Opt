@@ -1,0 +1,5 @@
+{
+    "The number of burgers to eat": "5.0",
+    "The number of slices of pizza to eat": "10.0",
+    "The minimum cholesterol intake": "160.0"
+}

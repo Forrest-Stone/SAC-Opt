@@ -1,0 +1,5 @@
+{
+    "The number of units of product 1 to produce": "0.0",
+    "The number of units of product 2 to produce": "20.0",
+    "The total profit": "80.0"
+}

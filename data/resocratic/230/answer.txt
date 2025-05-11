@@ -1,0 +1,5 @@
+{
+    "The number of noodles servings": "2.0",
+    "The number of protein bar servings": "4.0",
+    "The cost of the diet": "20.0"
+}

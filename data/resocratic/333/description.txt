@@ -1,0 +1,1 @@
+In a cold region, a train service offers heated seats and regular seats. The train has 100 seats available. The trains reserves at least 15 seats to be heated. However, at least 3 times as many people prefer regular seats to heated seats. If the profit per heated seat is $20 and the profit per regular seat is $15, how many of each seat type should be sold to maximize profit?

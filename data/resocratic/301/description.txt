@@ -1,0 +1,1 @@
+A summer painting company employs students earning $200 a week and full-time employees earning $500 a week. The company needs at least 100 painters of whom at 30 must be full-time employees. In addition, to make sure there is enough experience, the number of full-time employees should be at least half the number of students. Formulate a LP to minimize the wage bill.

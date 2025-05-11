@@ -1,0 +1,6 @@
+{
+    "The amount of carrot (kg) to be added to each dish": "0.0095263438",
+    "The amount of white cabbage (kg) to be added to each dish": "0.038265035",
+    "The amount of cucumber (kg) to be added to each dish": "0.2948909",
+    "The minimum additional price per dish": "0.07051091035"
+}

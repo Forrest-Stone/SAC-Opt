@@ -1,0 +1,6 @@
+{
+    "The number of compact cars to produce": "1333.0",
+    "The number of midsize cars to produce": "1000.0",
+    "The number of large cars to produce": "1000.0",
+    "The maximum profit": "9666000.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of LED signs made": "3.0",
+    "The number of neon signs made": "4.0",
+    "The total profit": "10300.0"
+}

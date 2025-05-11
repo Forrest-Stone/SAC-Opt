@@ -1,0 +1,7 @@
+{
+    "Number of Units of DeviceA": "0.0",
+    "Number of Units of DeviceB": "0.0",
+    "Number of Units of DeviceC": "1000.0",
+    "R&D Investment": "0.0",
+    "Total Profit": "200000.0"
+}

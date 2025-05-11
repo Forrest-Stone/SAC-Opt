@@ -1,0 +1,5 @@
+{
+    "The number of servings of milk": "16.0",
+    "The number of servings of cheese": "0.0",
+    "Total cost": "32.0"
+}

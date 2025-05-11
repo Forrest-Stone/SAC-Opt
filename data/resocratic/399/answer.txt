@@ -1,0 +1,5 @@
+{
+    "The number of cans of Ruby paint": "4",
+    "The number of cans of Sapphire paint": "2",
+    "The minimum cost of the mixture": "78"
+}

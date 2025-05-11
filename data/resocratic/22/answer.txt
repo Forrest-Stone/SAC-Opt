@@ -1,0 +1,5 @@
+{
+    "The number of ambulance shifts": "10.0",
+    "The number of van shifts": "8.0",
+    "The total cost to the hospital": "12600.0"
+}

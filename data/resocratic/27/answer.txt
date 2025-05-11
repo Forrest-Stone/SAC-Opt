@@ -1,0 +1,3 @@
+{
+    "Total Cost per Unit of Energy": "3.22077922077922"
+}

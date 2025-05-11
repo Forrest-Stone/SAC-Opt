@@ -1,0 +1,5 @@
+{
+    "The number of math workbooks": "140.0",
+    "The number of English workbooks": "170.0",
+    "The total profit": "4990.0"
+}

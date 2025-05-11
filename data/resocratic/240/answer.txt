@@ -1,0 +1,5 @@
+{
+    "The number of salinity tests": "167.0",
+    "The number of pH tests": "250.0",
+    "The total number of probes used": "1001.0"
+}

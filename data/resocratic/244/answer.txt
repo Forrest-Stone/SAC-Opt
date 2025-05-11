@@ -1,0 +1,5 @@
+{
+    "The number of hamburgers": "3.0",
+    "The number of chicken wraps": "1.0",
+    "The minimum cost": "23.5"
+}

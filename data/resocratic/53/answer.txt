@@ -1,0 +1,5 @@
+{
+    "The number of hours using method A": "0.0",
+    "The number of hours using method B": "40.0",
+    "The total time needed": "40.0"
+}

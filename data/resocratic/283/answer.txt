@@ -1,0 +1,5 @@
+{
+    "Acres of potatoes": "17.0",
+    "Acres of cucumbers": "33.0",
+    "The maximum profit": "29950.0"
+}

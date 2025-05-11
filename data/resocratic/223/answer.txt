@@ -1,0 +1,5 @@
+{
+    "The number of long cables": "22.0",
+    "The number of short cables": "111.0",
+    "The maximum profit": "819.0"
+}

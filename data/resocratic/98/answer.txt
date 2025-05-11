@@ -1,0 +1,5 @@
+{
+    "The number of small crates used": "45.0",
+    "The number of large crates used": "15.0",
+    "The total number of grapes transported": "16500.0"
+}

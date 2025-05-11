@@ -1,0 +1,5 @@
+{
+    "The number of full-weighted keyboards": "5.0",
+    "The number of semi-weighted keyboards": "0.0",
+    "Total revenue": "14000.0"
+}

@@ -1,0 +1,8 @@
+Dorian Auto is considering manufacturing three types of autos: compact, midsize, and large. The resources required for, and the profits yielded by, each type of car are shown in the following Table. Currently, 10,000 tons of steel and 120,000 hours of labor are available. For production of a type of car to be economically feasible, at least 1,000 cars of that type must be produced. Maximize Dorian's profit.
+
+Table (Resources required and profits yielded for each type of car):
+| Auto Type | Steel Required (tons) | Labor Required (hours) | Profit Yielded ($) |
+|-----------|-----------------------|------------------------|--------------------|
+| Compact   | 1.5                   | 30                     | 2,000              |
+| Midsize   | 3                     | 40                     | 3,000              |
+| Large     | 5                     | 25                     | 4,000              |

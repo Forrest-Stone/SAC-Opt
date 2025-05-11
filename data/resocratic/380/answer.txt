@@ -1,0 +1,5 @@
+{
+    "The number of tuna salad sandwiches": "6.0",
+    "The number of chicken salad sandwiches": "0.0",
+    "The total cost": "30.0"
+}

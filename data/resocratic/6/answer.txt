@@ -1,0 +1,5 @@
+{
+    "Money invested in clothing company": "2500.0",
+    "Money invested in tech company": "500.0",
+    "Total profit": "225.0000"
+}

@@ -1,0 +1,7 @@
+A manufacturer can sell product 1 at a profit of $2/unit and product 2 at a profit of $5/unit. The amount of raw material required to manufacture each product and the setup costs for production are detailed in the following Table. A total of 120 units of raw material are available. Maximize profits.
+
+Table (Raw material required for manufacturing and setup costs):
+| Product Type | Raw Material Required (units per product unit) | Setup Cost (if produced) |
+| ------------ | --------------------------------------------- | ------------------------ |
+| Product 1    | 3                                             | $10                      |
+| Product 2    | 6                                             | $20                      |

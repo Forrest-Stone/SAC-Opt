@@ -1,0 +1,1 @@
+Find two positive numbers. The product of the two numbers is 750. We want to minimize the sum of one number and 10 times the other number.

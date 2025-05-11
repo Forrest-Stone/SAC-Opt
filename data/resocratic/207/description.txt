@@ -1,0 +1,11 @@
+A bakery has 5 different ovens for baking cakes. The owner needs to assign workers to each oven. The bakery produces 2 types of cakes in the 5 ovens. The production rates for each type of cake per worker per hour on each oven are given in the following Table.
+
+| Oven | Cake 1 Production Rate | Cake 2 Production Rate |
+|------|------------------------|------------------------|
+| 1    | 15 units               | 20 units               |
+| 2    | 20 units               | 25 units               |
+| 3    | 25 units               | 30 units               |
+| 4    | 30 units               | 35 units               |
+| 5    | 35 units               | 40 units               |
+
+The bakery needs to produce at least 200 units of cake 1 and at least 300 units of cake 2. The five ovens can only be opened or closed at the same time. The bakery has a total of 40 workers available. Each oven can be utilized by up to 15 workers at a time. The objective is to determine the minimum production time to meet the daily demand, which is defined as the maximum of the production times required for each type of cake.

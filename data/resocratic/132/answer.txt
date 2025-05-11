@@ -1,0 +1,5 @@
+{
+    "The number of small suitcases": "47.0",
+    "The number of large suitcases": "23.0",
+    "The total number of snacks transported": "4190.0"
+}

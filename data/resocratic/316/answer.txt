@@ -1,0 +1,5 @@
+{
+    "The number of Oil Max containers": "0.0",
+    "The number of Oil Max Pro containers": "36.0",
+    "The total profit": "540.0"
+}

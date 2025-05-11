@@ -1,0 +1,6 @@
+{
+    "Amount of Solar Energy": "100.0",
+    "Amount of Wind Energy": "100.0",
+    "Amount of Hydro Energy": "175.0",
+    "Cost-Impact Ratio": "125.0"
+}

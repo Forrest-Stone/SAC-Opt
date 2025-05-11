@@ -1,0 +1,5 @@
+{
+    "Amount invested in telecom": "70000.0",
+    "Amount invested in healthcare": "23333.333",
+    "Total profit": "2333.33333"
+}

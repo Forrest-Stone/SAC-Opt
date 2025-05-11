@@ -1,0 +1,5 @@
+{
+    "The number of wraps": "537.0",
+    "The number of platters": "178.0",
+    "The total production time (in minutes)": "6794.0"
+}

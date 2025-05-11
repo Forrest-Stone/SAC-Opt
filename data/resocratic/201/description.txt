@@ -1,0 +1,1 @@
+A food manufacturer wishes to mix pork and chicken to create sausages. The mixture needs to contain at least 10 units of protein and 15 units of fat. Pork costs $40 per kg and chicken costs $50 per kg. Per kilogram, pork contains 2 units of protein and 4 units of fat. Per kilogram, chicken contains 3 units of protein and 2 units of fat. Determine the minimum cost of the mixture.

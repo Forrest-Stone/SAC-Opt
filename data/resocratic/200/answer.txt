@@ -1,0 +1,5 @@
+{
+    "The number of perfume bottles filled": "300.0",
+    "The number of cologne bottles filled": "40.0",
+    "Total profit": "17400.0"
+}

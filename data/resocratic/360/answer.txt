@@ -1,0 +1,5 @@
+{
+    "The number of otters": "13.0",
+    "The number of dolphins": "32.0",
+    "The number of tricks performed": "71.0"
+}

@@ -1,0 +1,8 @@
+{
+    "Number of Workers on Oven 1": "0.0",
+    "Number of Workers on Oven 2": "0.0",
+    "Number of Workers on Oven 3": "10.0",
+    "Number of Workers on Oven 4": "15.0",
+    "Number of Workers on Oven 5": "15.0",
+    "Minimum Production Time": "0.21052631578947364"
+}

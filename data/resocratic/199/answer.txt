@@ -1,0 +1,5 @@
+{
+    "The number of reams of graph paper": "2.0",
+    "The number of reams of music paper": "113.0",
+    "The maximum profit": "290.5"
+}

@@ -1,0 +1,9 @@
+The United Charities annual fund-raising drive is scheduled to take place next week. Donations are collected during the day and night, by telephone, and through personal contact. The average donation resulting from each type of contact is shown in the following Table. The charity group has enough donated gasoline and cars to make at most 300 personal contacts during one day and night combined. The volunteer minutes required to conduct each type of interview are also shown in the Table. The charity has 20 volunteer hours available each day and 40 volunteer hours each night. The chairperson of the fund-raising drive wants to know how many different types of contacts to schedule in a 24-hour period (i.e., 1 day and 1 night) to maximize the total donations.
+
+Table (Average donation and time required for each type of contact):
+| Contact Type | Time of Day | Average Donation | Interview Time (min) |
+| ------------ | ----------- | ---------------- | -------------------- |
+| Phone        | Day         | $2.00 (x_1)      | 6 (x_1)              |
+| Phone        | Night       | $3.00 (x_2)      | 5 (x_2)              |
+| Personal     | Day         | $4.00 (x_3)      | 15 (x_3)             |
+| Personal     | Night       | $7.00 (x_4)      | 12 (x_4)             |

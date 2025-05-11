@@ -1,0 +1,5 @@
+{
+    "The number of pies to make": "32.0",
+    "The number of tarts to make": "280.0",
+    "The maximum profit": "1656.0"
+}

@@ -1,0 +1,12 @@
+A wood storage and transportation company has a large warehouse for storing and selling wood. Due to the fluctuation in wood prices each quarter, the company purchases wood at the beginning of each quarter, sells a portion within the same quarter, and stores the remaining amount for future sales. It is known that the maximum wood storage capacity of the company's warehouse is 200,000 $\mathrm{m}^3$, and the storage cost is $(a+b u)$ yuan per $\mathrm{m}^3$, where $a=70$, $b=100$, and $u$ is the storage time in quarters. The buying and selling prices for each quarter and the projected maximum sales volume are shown in Table 1-18.
+Table 1-18
+\begin{tabular}{c|c|c|c}
+\hline Quarter & Buying Price (10,000 yuan/$10,000 \mathrm{m}^2$) & Selling Price (10,000 yuan/$10,000 \mathrm{m}^2$) & Projected Maximum Sales Volume ($10,000 \mathrm{m}^3$) \\
+\hline Winter & 410 & 425 & 100 \\
+Spring & 430 & 440 & 140 \\
+Summer & 460 & 465 & 200 \\
+Autumn & 450 & 455 & 160 \\
+\hline
+\end{tabular}
+
+Due to the unsuitability of long-term wood storage, all inventory wood should be sold by the end of each autumn. Establish a linear programming model for this problem to maximize the company's annual profit.

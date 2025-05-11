@@ -1,0 +1,5 @@
+{
+    "Number of days to run north side operation": "0.0",
+    "Number of days to run south side operation": "5.0",
+    "Total operation cost": "2750.0"
+}

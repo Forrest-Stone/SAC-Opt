@@ -1,0 +1,5 @@
+{
+    "The number of refrigerators to sell": "333.0",
+    "The number of stoves to sell": "0.0",
+    "The maximum profit": "133200.0"
+}

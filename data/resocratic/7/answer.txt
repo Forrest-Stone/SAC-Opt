@@ -1,0 +1,5 @@
+{
+    "The length of the rectangle": "10.00",
+    "The width of the rectangle": "10.0",
+    "The perimeter of the rectangle": "40.00"
+}

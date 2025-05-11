@@ -1,0 +1,5 @@
+{
+    "The number of social media commercials": "2",
+    "The number of television commercials": "4",
+    "The minimum cost": "260000.0"
+}

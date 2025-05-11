@@ -1,0 +1,5 @@
+{
+    "The number of type 1 circuits to produce": "6.0",
+    "The number of type 2 circuits to produce": "3.0",
+    "The maximum financial returns": "66.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of painkiller pills": "50.0",
+    "The number of sleeping pills": "117.0",
+    "The total amount of digestive medicine needed": "735.0"
+}

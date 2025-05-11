@@ -1,0 +1,5 @@
+{
+    "The number of small containers": "40.0",
+    "The number of large containers": "5.0",
+    "The amount of paste produced": "950.0"
+}

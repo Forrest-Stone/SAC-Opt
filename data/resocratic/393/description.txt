@@ -1,0 +1,1 @@
+Find the area of the largest rectangle that fits inside a semicircle. one side of the rectangle is along the diameter of the semicircle. The radius of the semicircle is 10. Please provide the area and the shape of the rectangle that maximizes the area.

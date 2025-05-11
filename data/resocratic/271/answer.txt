@@ -1,0 +1,5 @@
+{
+    "The kg of the first mix": "30.0",
+    "The kg of the second mix": "40.0",
+    "The total profit": "960.0"
+}

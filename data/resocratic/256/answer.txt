@@ -1,0 +1,5 @@
+{
+    "The number of molars to fill": "45.0",
+    "The number of canines to fill": "68.0",
+    "The total amount of pain killer needed": "291.4"
+}

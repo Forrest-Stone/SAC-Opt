@@ -1,0 +1,5 @@
+{
+    "The number of regular sandwiches": "20.0",
+    "The number of special sandwiches": "0.0",
+    "Total profit": "60.0"
+}

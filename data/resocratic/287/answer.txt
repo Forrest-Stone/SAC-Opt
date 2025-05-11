@@ -1,0 +1,5 @@
+{
+    "Gallons of chocolate ice cream": "10.0",
+    "Gallons of vanilla ice cream": "8.0",
+    "Total profit": "4400.0"
+}

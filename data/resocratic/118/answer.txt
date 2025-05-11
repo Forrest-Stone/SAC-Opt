@@ -1,0 +1,5 @@
+{
+    "The number of strawberry cookies": "20.0",
+    "The number of sugar cookies": "80.0",
+    "The total profit": "1070.0"
+}

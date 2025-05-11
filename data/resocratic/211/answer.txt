@@ -1,0 +1,5 @@
+{
+    "The fraction of each liter that is cheap paint": "0.25",
+    "The fraction of each liter that is expensive paint": "0.75",
+    "The minimized cost": "1.2"
+}

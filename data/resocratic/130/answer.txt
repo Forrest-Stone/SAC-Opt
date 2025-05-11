@@ -1,0 +1,5 @@
+{
+    "The number of throwing games": "42.0",
+    "The number of climbing games": "5.0",
+    "The total number of customers attracted per hour": "670.0"
+}

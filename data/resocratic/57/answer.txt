@@ -1,0 +1,4 @@
+{
+    "The optimal price per day to rent a car": "100.0",
+    "The maximum revenue": "50000.0"
+}

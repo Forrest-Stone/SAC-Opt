@@ -1,0 +1,5 @@
+{
+    "Hours to run factory 1": "5.0",
+    "Hours to run factory 2": "0.0",
+    "The total cost of production": "1500.0"
+}

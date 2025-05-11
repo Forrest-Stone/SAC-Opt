@@ -1,0 +1,5 @@
+{
+    "The number of ferry trips": "6.0",
+    "The number of light rail trips": "26.0",
+    "The total number of trips": "32.0"
+}

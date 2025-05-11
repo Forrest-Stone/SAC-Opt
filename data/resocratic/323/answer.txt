@@ -1,0 +1,5 @@
+{
+    "The amount to invest in the younger sister's company": "2000.0",
+    "The amount to invest in the elder sister's company": "3000.0",
+    "The maximum profit from the investment": "340.0"
+}

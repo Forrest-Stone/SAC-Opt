@@ -1,0 +1,5 @@
+{
+    "The number of heated seats sold": "75.0",
+    "The number of regular seats sold": "225.0",
+    "The maximum profit": "6750.0"
+}

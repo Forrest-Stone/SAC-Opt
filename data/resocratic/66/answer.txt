@@ -1,0 +1,5 @@
+{
+    "The number of servings of crab soup": "0.0",
+    "The number of servings of lobster soup": "8.0",
+    "The total profit": "40.0"
+}

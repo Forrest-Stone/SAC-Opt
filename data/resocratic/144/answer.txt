@@ -1,0 +1,5 @@
+{
+    "The number of truck trips": "25.0",
+    "The number of van trips": "50.0",
+    "The total number of trips": "75.0"
+}

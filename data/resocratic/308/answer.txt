@@ -1,0 +1,5 @@
+{
+    "The number of helicopter trips": "4.0",
+    "The number of car trips": "9.0",
+    "The total time needed": "430.0"
+}

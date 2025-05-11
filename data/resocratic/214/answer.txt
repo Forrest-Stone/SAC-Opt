@@ -1,0 +1,5 @@
+{
+    "The number of kayak trips": "107.0",
+    "The number of motorboat trips": "25.0",
+    "The total time needed to transport all the locals": "610.0"
+}

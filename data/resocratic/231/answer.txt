@@ -1,0 +1,5 @@
+{
+    "The number of trips by the new company": "2.0",
+    "The number of trips by the old company": "13.0",
+    "The total amount of diesel used": "580.0"
+}

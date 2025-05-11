@@ -1,0 +1,4 @@
+{
+    "The number of extra watermelon plants to be planted": "5.0",
+    "The maximum total output of watermelons": "625.000000"
+}

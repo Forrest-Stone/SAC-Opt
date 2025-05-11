@@ -1,0 +1,9 @@
+A company is considering opening warehouses in four cities: New York, Los Angeles, Chicago, and Atlanta. Each warehouse can ship 100 units per week. The weekly fixed cost of keeping each warehouse open is $400 for New York, $500 for Los Angeles, $300 for Chicago, and $150 for Atlanta. Region 1 of the country requires 80 units per week, region 2 requires 70 units per week, and region 3 requires 40 units per week. The costs (including production and shipping costs) of sending one unit from a warehouse to a region are shown in the following Table. We want to meet weekly demands at minimum cost, subject to the preceding information and the following restrictions: 1. If the New York warehouse is opened, then the Los Angeles warehouse must be opened. 2. At most two warehouses can be opened. 3. Either the Atlanta or the Los Angeles warehouse must be opened. Minimize the weekly costs of meeting demand.
+
+Table (Costs of sending one unit from a warehouse to a region):
+| From / To ($) | Region 1 | Region 2 | Region 3 |
+| ------------- | -------- | -------- | -------- |
+| New York      | 20       | 40       | 50       |
+| Los Angeles   | 48       | 15       | 26       |
+| Chicago       | 26       | 35       | 18       |
+| Atlanta       | 24       | 50       | 35       |

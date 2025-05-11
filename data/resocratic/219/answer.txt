@@ -1,0 +1,5 @@
+{
+    "The number of full-time staff to hire": "16.0",
+    "The number of part-time staff to hire": "24.0",
+    "The total number of staff hired": "40.0"
+}

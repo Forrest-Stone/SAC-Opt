@@ -1,0 +1,7 @@
+{
+    "Number of Units of ProductA": "0.0",
+    "Number of Units of ProductB": "0.0",
+    "Number of Units of ProductC": "0.0",
+    "Number of Units of ProductD": "500.0",
+    "Total Profit": "40000.0"
+}

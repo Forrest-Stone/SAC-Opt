@@ -1,0 +1,7 @@
+Robertville Furniture Company (RFC) makes two types of dressers: the Classic and the Modern. RFC sells the Classic for $310 and the Modern for $350. At these prices, RFC believes it can sell up to 20 Classic and 25 Modern dressers per week. Each type of dresser is made of oak and covered with a pecan veneer. The cost of oak is $1.50 per square foot, and the cost of pecan veneer is $2 per square foot. The dressers must go through two manufacturing departments: cutting and veneering. The machine hours required for each dresser, as well as the wood requirements, are given in the following table. RFC has only 40 hours of production time available each week in each department, and it can obtain up to 2000 board feet of oak and 1500 square feet of pecan veneer each week. The cost of operating each manufacturing department is essentially fixed, so RFC would like to maximize its contribution to overhead (revenue minus variable costs).
+
+Table (Wood requirements and machine hours for each type of dresser):
+| Dresser Type | Oak Size (sq ft) | Pecan Size (sq ft) | Cutting Time (hrs) | Veneering Time (hrs) |
+| ------------ | ---------------- | ------------------ | ------------------ | -------------------- |
+| Classic      | 90               | 50                 | 1.20               | 1.00                 |
+| Modern       | 100              | 60                 | 0.90               | 1.20                 |

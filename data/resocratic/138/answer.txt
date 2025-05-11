@@ -1,0 +1,5 @@
+{
+    "The number of soccer balls": "140.0",
+    "The number of basket balls": "0.0",
+    "The total profit": "560.0"
+}

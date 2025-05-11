@@ -1,0 +1,5 @@
+{
+    "The number of sliding doors to make": "210.0",
+    "The number of windows to make": "170.0",
+    "Total profit per day": "10550.0"
+}

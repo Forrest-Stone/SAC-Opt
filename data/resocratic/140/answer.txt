@@ -1,0 +1,5 @@
+{
+    "The number of cars": "55.0",
+    "The number of buses": "4.0",
+    "Total pollution produced": "670.0"
+}

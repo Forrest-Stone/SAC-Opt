@@ -1,0 +1,5 @@
+{
+    "The number of acres for apple trees": "200.0",
+    "The number of acres for peach trees": "0.0",
+    "The maximum profit": "3000.0"
+}

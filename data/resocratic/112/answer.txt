@@ -1,0 +1,5 @@
+{
+    "Time for Beam 1": "5.0",
+    "Time for Beam 2": "0.0",
+    "Total radiation to the pancreas": "1.5"
+}

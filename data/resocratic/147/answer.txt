@@ -1,0 +1,6 @@
+{
+    "The amount of grain A to feed the sheep": "0.59533074",
+    "The amount of grain B to feed the sheep": "2.0077821",
+    "The amount of grain C to feed the sheep": "0.54085603",
+    "The minimum cost": "148.61089482"
+}

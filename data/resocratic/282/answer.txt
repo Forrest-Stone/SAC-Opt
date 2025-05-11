@@ -1,0 +1,5 @@
+{
+    "The number of canoes": "67.0",
+    "The number of diesel boats": "22.0",
+    "The total number of boats used": "89.0"
+}

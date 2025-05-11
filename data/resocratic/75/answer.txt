@@ -1,0 +1,5 @@
+{
+    "The number of packages of adhesives produced daily": "3.0",
+    "The number of packages of plasticizers produced daily": "54",
+    "The maximum daily revenue": "646.5"
+}

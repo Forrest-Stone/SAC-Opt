@@ -1,0 +1,14 @@
+The Lee family has 5 children, Alice, Bob, Charlie, Diana, and Ella. The cost of taking Alice is $1000, Bob is $900, Charlie is $600, Diana is $500, and Ella is $700. Which children should the couple take to minimize the total cost of taking the children?
+They can take a maximum of 3 children together on the upcoming trip.
+
+Bob is the youngest, so the Lee family will definitely take him.
+
+If the couple takes Alice, they will not take Diana because Alice and Diana do not get along.
+
+If the couple takes Bob, they will not take Charlie because Bob and Charlie do not get along.
+
+If they take Charlie, they must also take Diana.
+
+If they take Diana, they must also take Ella.
+
+Although it will cost them a lot of money, the Lee family has decided to take at least two children.

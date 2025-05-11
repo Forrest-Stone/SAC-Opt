@@ -1,0 +1,5 @@
+{
+    "The number of square feet of hardwood flooring produced weekly": "50000.0",
+    "The number of square feet of vinyl planks produced weekly": "30000.0",
+    "The maximum company's profit": "215000.0"
+}

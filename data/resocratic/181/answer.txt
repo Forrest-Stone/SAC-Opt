@@ -1,0 +1,5 @@
+{
+    "The number of small cabinets": "20.0",
+    "The number of large cabinets": "0.0",
+    "The number of seasonings and spices stored": "600.0"
+}

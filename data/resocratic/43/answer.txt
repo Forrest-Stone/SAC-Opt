@@ -1,0 +1,5 @@
+{
+    "The number of truck trips": "4.0",
+    "The number of car trips": "10.0",
+    "Total amount of gas consumed": "230.0"
+}

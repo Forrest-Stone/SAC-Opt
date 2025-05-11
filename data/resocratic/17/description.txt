@@ -1,0 +1,7 @@
+To protect soil from erosion, some farmers plant winter cover crops such as winter wheat and rye. In addition to conserving soil, cover crops often increase crop yields in the row crops that follow in spring and summer. Suppose that a farmer has 800 acres of land and plans to plant winter wheat and rye. The input cost for 1 acre for each crop is given in the table below along with the cost for machinery and labor. The profit for 1 acre of each crop is also provided. The farmer has budgeted a maximum of $90,000 for input costs and a maximum of $36,000 for labor and machinery. Determine the number of acres of each crop that the farmer should plant to maximize profit. (Assume that all crops will be sold.). What is the maximum profit? If the profit per acre for wheat were $40 and the profit per acre for rye were $45, how many acres of each crop should be planted to maximize profit?
+
+Table (Input Cost, Labor/Machinery Cost, and Profit per Acre for Wheat and Rye):
+| Crop  | Input Cost per Acre | Labor/Machinery Cost per Acre | Profit per Acre (Original) | Profit per Acre (Adjusted) |
+|-------|---------------------|-------------------------------|----------------------------|----------------------------|
+| Wheat | $90                 | $50                           | $42                         | $40                         |
+| Rye   | $120                | $40                           | $35                         | $45                         |

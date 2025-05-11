@@ -1,0 +1,5 @@
+{
+    "The number of peach candy packs": "0.0",
+    "The number of cherry candy packs": "0.0",
+    "The total amount of special syrup used": "0.0"
+}

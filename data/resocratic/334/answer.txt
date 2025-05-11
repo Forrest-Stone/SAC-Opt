@@ -1,0 +1,5 @@
+{
+    "The number of glass jars to package": "40.0",
+    "The number of plates to package": "0.0",
+    "The maximum profit": "80.0"
+}

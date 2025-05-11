@@ -1,0 +1,5 @@
+{
+    "The number of color printers": "20.0",
+    "The number of black and white printers": "15.0",
+    "The maximum profit": "5050.0"
+}

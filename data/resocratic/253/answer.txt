@@ -1,0 +1,5 @@
+{
+    "The number of large pills": "100.0",
+    "The number of small pills": "150.0",
+    "Total amount of filler material used": "350.0"
+}

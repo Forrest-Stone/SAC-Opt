@@ -1,0 +1,3 @@
+{
+    "Average Net Profit per Truck": "700.00000000"
+}

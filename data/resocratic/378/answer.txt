@@ -1,0 +1,5 @@
+{
+    "The number of LED lights": "210.0",
+    "The number of fluorescence lamps": "90.0",
+    "The total number of light changes": "990.0"
+}

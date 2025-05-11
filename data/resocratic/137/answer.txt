@@ -1,0 +1,5 @@
+{
+    "The number of acres of pineapples": "140.0",
+    "The number of acres of bananas": "60.0",
+    "The maximum profit": "37000.0"
+}

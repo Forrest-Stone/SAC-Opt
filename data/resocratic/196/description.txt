@@ -1,0 +1,12 @@
+The number of employees needed in a post office varies depending on the day of the week, as shown in the following Table. Employees work five consecutive days and have the next two days off. It becomes necessary to organize groups of employees to work in different shifts, so that the number of employees required is satisfied every day of the week. The objective is to employ the minimum number of workers.
+
+Table (The number of employees needed each day of the week):
+| Day of the Week | Number of Employees Needed |
+| --------------- | -------------------------- |
+| Monday          | 15                         |
+| Tuesday         | 13                         |
+| Wednesday       | 15                         |
+| Thursday        | 18                         |
+| Friday          | 14                         |
+| Saturday        | 16                         |
+| Sunday          | 10                         |

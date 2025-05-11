@@ -1,0 +1,5 @@
+{
+    "The number of display shelves to manufacture": "2.0",
+    "The number of plant stands to manufacture": "15.0",
+    "Total profit": "785.0"
+}

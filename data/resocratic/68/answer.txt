@@ -1,0 +1,5 @@
+{
+    "The number of vans used": "10.0",
+    "The number of minibuses used": "9.0",
+    "The total pollution produced": "160.0"
+}

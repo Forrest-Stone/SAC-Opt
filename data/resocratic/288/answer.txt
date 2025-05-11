@@ -1,0 +1,5 @@
+{
+    "The number of cows": "15.0",
+    "The number of elephants": "14.0",
+    "The total number of animals used": "29.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of argon methods": "0.0",
+    "The number of halogen methods": "7.0",
+    "The total number of light bulbs produced": "21.0"
+}

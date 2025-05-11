@@ -1,0 +1,5 @@
+{
+    "The number of scooters": "2000.0",
+    "The number of bikes": "0.0",
+    "Total profit": "400000.0"
+}

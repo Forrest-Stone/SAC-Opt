@@ -1,0 +1,6 @@
+{
+    "The number of model X computers to produce": "150.0",
+    "The number of model Y computers to produce": "0.0",
+    "The number of model Z computers to produce": "0.0",
+    "The maximum profit": "15000.0"
+}

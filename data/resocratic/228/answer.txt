@@ -1,0 +1,5 @@
+{
+    "The number of densely-seated ski lifts": "20.0",
+    "The number of loosely-seated ski lifts": "5.0",
+    "Total number of ski lifts": "25.0"
+}

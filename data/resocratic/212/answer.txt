@@ -1,0 +1,5 @@
+{
+    "The number of regular fire fighters": "15.0",
+    "The number of emergency fire fighters": "25.0",
+    "The total number of fire fighters": "40.0"
+}

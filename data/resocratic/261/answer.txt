@@ -1,0 +1,5 @@
+{
+    "The number of small boxes": "20.0",
+    "The number of large boxes": "6.0",
+    "The total number of boxes": "26.0"
+}

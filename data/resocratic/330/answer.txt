@@ -1,0 +1,4 @@
+{
+    "The number of vans used": "14.0",
+    "The number of trucks used": "13.0"
+}

@@ -1,0 +1,4 @@
+{
+    "The optimal price per day to maximize revenue": "75.0",
+    "The maximum revenue": "28125.0"
+}

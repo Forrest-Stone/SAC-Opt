@@ -1,0 +1,5 @@
+{
+    "The number of chop saws": "8.0",
+    "The number of steel cutters": "64.0",
+    "The total number of metal-working equipment": "72.0"
+}

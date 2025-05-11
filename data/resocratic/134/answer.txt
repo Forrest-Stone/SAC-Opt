@@ -1,0 +1,7 @@
+{
+    "The number of alarm valves from Plant A to Center I": "800.0",
+    "The number of alarm valves from Plant A to Center II": "0.0",
+    "The number of alarm valves from Plant B to Center I": "100.0",
+    "The number of alarm valves from Plant B to Center II": "600.0",
+    "The minimum transportation cost": "10400.0"
+}

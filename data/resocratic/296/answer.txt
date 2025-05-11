@@ -1,0 +1,5 @@
+{
+    "The number of tacos sold": "50.0",
+    "The number of burritos sold": "50.0",
+    "Total profit": "450.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of beam bridges": "20.0",
+    "The number of truss bridges": "0.0",
+    "The total mass that can be supported": "800.0"
+}

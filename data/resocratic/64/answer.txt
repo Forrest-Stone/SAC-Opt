@@ -1,0 +1,5 @@
+{
+    "The number of regular brand bags": "0.0",
+    "The number of premium brand bags": "2.0",
+    "The total cost": "70.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of medication patches": "30.0",
+    "The number of anti-biotic creams": "62.0",
+    "The number of people that can be treated": "214.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The width of the rectangle": "7.07106783679653",
+    "The height of the rectangle": "14.142135701147744",
+    "The maximum area of the rectangle": "100.00000"
+}

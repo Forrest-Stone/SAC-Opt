@@ -1,0 +1,5 @@
+{
+    "The number of batches of hams": "1.0",
+    "The number of batches of pork ribs": "1142.0",
+    "The total profit": "342750.0"
+}

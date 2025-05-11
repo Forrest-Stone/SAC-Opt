@@ -1,0 +1,5 @@
+{
+    "The number of processes with a catalyst": "3.0",
+    "The number of processes without a catalyst": "18.0",
+    "The total amount of carbon dioxide produced": "369.0"
+}

@@ -1,0 +1,9 @@
+{
+    "The number of regular mix boxes": "320.0",
+    "The number of deluxe mix boxes": "40.0",
+    "The number of cashew boxes": "20.0",
+    "The number of raisin boxes": "120.0",
+    "The number of caramel boxes": "20.0",
+    "The number of chocolate boxes": "60.0",
+    "The maximum profit": "433.0"
+}

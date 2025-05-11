@@ -1,0 +1,5 @@
+{
+    "The number of SUVs to produce": "0.0",
+    "The number of sedans to produce": "100.0",
+    "The maximum total profit": "900000.0"
+}

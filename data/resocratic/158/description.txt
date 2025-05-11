@@ -1,0 +1,8 @@
+Comp-Max Computers assembles computers and computer equipment. It is about to start production of three new types of computers, called model X, Y, and Z, respectively. Each type will require assembly time, inspection time, and storage space. The availability of each of these resources is limited. Specifically, available assembly time is 400 hours, available inspection time is 300 hours, and available storage space is 500 cubic feet (about 14.2 m³). The amount of each resource required for the different products and the profit per unit is reported in the table below. Due to some prior agreements with customers, Comp-Max must produce at least 12 model X computers. In addition, management requires that the fraction of total production made up of model Z computers must not exceed 25%. Help the manager determine the quantity of each model to produce in order to maximize profit.
+
+Table (Resource requirements and profit per unit for each computer model):
+| Computer Model | Assembly Time (hours) | Inspection Time (hours) | Storage Space (cubic feet) | Profit per Unit ($) |
+| -------------- | --------------------- | ----------------------- | -------------------------- | ------------------- |
+| Model X        | 1                     | 2                       | 3                          | 100                 |
+| Model Y        | 2                     | 3                       | 4                          | 125                 |
+| Model Z        | 3                     | 4                       | 5                          | 200                 |

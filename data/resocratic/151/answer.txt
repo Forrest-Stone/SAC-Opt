@@ -1,0 +1,5 @@
+{
+    "The number of race cars produced per day": "3.0",
+    "The number of regular cars produced per day": "3.0",
+    "The total profit per day": "90000.0"
+}

@@ -1,0 +1,8 @@
+Bangs Leisure Chairs produces three types of hand-crafted outdoor chairs: sling chairs, Adirondack chairs, and hammocks, with unit profits of $40, $100, and $90, respectively. The owner has 120 hours available each month for production and does not want to spend more than 50 hours on any one activity (cutting, assembling, and finishing). All products made can be sold. The time required for each activity for each type of chair is shown in the following Table. Determine the number of each type of chair to produce each month to maximize profit.
+
+Table (Time required in hours for each activity per chair type):
+| Chair Type     | Cutting | Assembling | Finishing |
+| -------------- | ------- | ---------- | --------- |
+| Sling Chairs   | 0.5     | 0.75       | 1         |
+| Adirondack     | 2       | 2          | 1         |
+| Hammocks       | 0.4     | 3          | 1         |

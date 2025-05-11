@@ -1,0 +1,5 @@
+{
+    "The number of helicopter trips": "24.0",
+    "The number of bus trips": "0.0",
+    "The total time to transport the patients": "24.0"
+}

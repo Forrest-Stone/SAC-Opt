@@ -1,0 +1,5 @@
+{
+    "The amount of laminate planks to be made weekly (in square feet)": "40000.0",
+    "The amount of carpets to be made weekly (in square feet)": "20000.0",
+    "The total profit": "150000.0"
+}

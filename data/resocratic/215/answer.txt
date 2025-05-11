@@ -1,0 +1,5 @@
+{
+    "The number of high intensity drills": "7.0",
+    "The number of low intensity drills": "15.0",
+    "Total number of drills needed": "22.0"
+}

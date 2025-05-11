@@ -1,0 +1,5 @@
+{
+    "The number of sofas to produce": "20.0",
+    "The number of kitchen cabinets to produce": "4.0",
+    "The maximum profit": "12800.0"
+}

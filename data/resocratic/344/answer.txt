@@ -1,0 +1,6 @@
+{
+    "The number of television commercials": "4.0",
+    "The number of radio commercials": "2.0",
+    "The number of newspaper ads": "7.0",
+    "The maximum exposure": "147000.0"
+}

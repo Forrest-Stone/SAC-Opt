@@ -1,0 +1,5 @@
+{
+    "The number of apple smoothies": "0.0",
+    "The number of orange smoothies": "100.0",
+    "Total profit": "450.0"
+}

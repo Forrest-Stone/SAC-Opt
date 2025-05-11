@@ -1,0 +1,1 @@
+You have a garden row of 20 watermelon plants that produce an average of 30 watermelons apiece. For any additional watermelon plants planted, the output per watermelon plant drops by one watermelon. How many extra watermelon plants should you plant?

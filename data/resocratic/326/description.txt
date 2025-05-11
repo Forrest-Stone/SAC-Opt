@@ -1,0 +1,1 @@
+You need to construct a fence around an area of 1600 ft. What are the dimensions of the rectangular pen to minimize the amount of material needed?

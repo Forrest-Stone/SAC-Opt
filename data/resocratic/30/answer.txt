@@ -1,0 +1,5 @@
+{
+    "The number of banana-haters packages": "0.0",
+    "The number of combo packages": "2.0",
+    "The maximum net profit": "14.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of flight jackets to produce": "5.0",
+    "The number of denim jackets to produce": "25.0",
+    "The maximum profit": "2850.0"
+}

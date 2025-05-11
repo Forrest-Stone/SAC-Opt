@@ -1,0 +1,10 @@
+{
+    "The minimum number of workers needed is": "22.0",
+    "Number of workers starting on Monday": "7.0",
+    "Number of workers starting on Tuesday": "0.0",
+    "Number of workers starting on Wednesday": "4.0",
+    "Number of workers starting on Thursday": "0.0",
+    "Number of workers starting on Friday": "4.0",
+    "Number of workers starting on Saturday": "5.0",
+    "Number of workers starting on Sunday": "2.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of almond croissants": "0.0",
+    "The number of pistachio croissants": "0.0",
+    "The total production time in minutes": "0.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of bracelets to make": "4.0",
+    "The number of rings to make": "7.0",
+    "The maximum profit": "4900.0"
+}

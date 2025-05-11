@@ -1,0 +1,5 @@
+{
+    "The number of mechanical keyboards": "185.0",
+    "The number of standard keyboards": "37.0",
+    "The total number of keyboards": "222.0"
+}

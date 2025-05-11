@@ -1,0 +1,5 @@
+{
+    "The kilograms of Feed A in the mixture": "1.0638298",
+    "The kilograms of Feed B in the mixture": "2.7659574",
+    "The minimum cost of the mixture": "327.65957199999997"
+}

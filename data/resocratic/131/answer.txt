@@ -1,0 +1,5 @@
+{
+    "The number of Classic dressers to produce": "20.0",
+    "The number of Modern dressers to produce": "2.0",
+    "The maximum contribution to overhead": "1660.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of vegetable servings": "10.0",
+    "The number of fruit servings": "0.0",
+    "The total cost": "30.0"
+}

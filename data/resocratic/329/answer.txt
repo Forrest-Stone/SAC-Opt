@@ -1,0 +1,7 @@
+{
+    "The number of pounds of oats": "200.0",
+    "The number of pounds of corn": "0.0",
+    "The number of pounds of soybeans": "200.0",
+    "The number of pounds of vitamin supplement": "100.0",
+    "The total cost of the mix": "420.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of rice servings": "6.0",
+    "The number of kebab servings": "2.0",
+    "The total cost of the diet": "22.0"
+}

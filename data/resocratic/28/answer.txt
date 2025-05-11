@@ -1,0 +1,4 @@
+{
+    "The number of taxi rides": "78.0",
+    "The number of company car rides": "115.0"
+}

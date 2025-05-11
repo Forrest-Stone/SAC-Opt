@@ -1,0 +1,5 @@
+{
+    "The number of blueberry packs": "15.0",
+    "The number of strawberry packs": "45.0",
+    "The total sugar intake from packs": "390.0"
+}

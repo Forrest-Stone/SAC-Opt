@@ -1,0 +1,10 @@
+A bakery produces 4 types of cakes: chocolate, vanilla, strawberry, and lemon. The bakery has 3 ovens and needs to schedule the baking times (hour) for each type of cake. The operating time of the oven can only be set in increments of one hour. The bakery aims to maximize its daily revenue from selling cakes, where the revenue from each type of cake is proportional to the square of its baking time (hour). Specifically, the revenue from chocolate cake is 5 * Tc^2, from vanilla cake is 4 * Tv^2, from strawberry cake is 3 * Ts^2, and from lemon cake is 2 * Tl^2.
+
+| Cake Type | Revenue per Hour (Revenue = Constant * Time^2) |
+|-----------|------------------------------------------------|
+| Chocolate | 5 * Tc^2                                       |
+| Vanilla   | 4 * Tv^2                                       |
+| Strawberry| 3 * Ts^2                                       |
+| Lemon     | 2 * Tl^2                                       |
+
+The bakery must also ensure that the total baking time for all cakes does not exceed 24 hours. Each oven can only bake one type of cake at a time, and the bakery must ensure that each type of cake is baked at least once. The bakery has a limited supply of ingredients, which allows for a maximum of 10 hours of baking for chocolate cake, 8 hours for vanilla cake, 6 hours for strawberry cake, and 4 hours for lemon cake.

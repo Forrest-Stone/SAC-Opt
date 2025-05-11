@@ -1,0 +1,9 @@
+A company plans to operate three types of transportation services, each serving a different type of cargo (Electronics, Textiles, and Food). The company needs to determine the number of vehicles to allocate for each cargo type, and the number of trips in each type of service per vehicle. For ease of management, the company decided to have the same number of trips per vehicle for the same type of service. The transportation cost per trip and the revenue per trip for each cargo type are given in the following Table.
+
+| Cargo Type | Transportation Cost per Trip | Revenue per Trip |
+|------------|------------------------------|------------------|
+| Electronics | $100                         | $200             |
+| Textiles   | $80                          | $160             |
+| Food       | $120                         | $240             |
+
+The company has a total of 20 vehicles available. The company has a budget of $1500 for transportation costs per day. The company has a daily operational capacity of 100 trips in terms of the number of trips it can handle per day. For Electronics, each vehicle can make at most 5 trips per day. For Textiles, each vehicle can make at most 6 trips per day. For Food, each vehicle can make at most 4 trips per day. The company wants to maximize the total profit per day.

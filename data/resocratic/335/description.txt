@@ -1,0 +1,1 @@
+You want to fence in a rectangular garden next to a house. Suppose you have 30 feet of fencing. You want the largest possible garden, so you decide to use one wall of the house as a border and use the fencing for the other three sides. What should the dimensions of the rectangle be?

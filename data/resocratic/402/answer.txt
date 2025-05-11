@@ -1,0 +1,3 @@
+{
+    "Total daily Energy Output": "50000.0"
+}

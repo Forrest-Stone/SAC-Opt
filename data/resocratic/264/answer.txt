@@ -1,0 +1,7 @@
+{
+    "Investment in 1": "0.0",
+    "Investment in 2": "1.0",
+    "Investment in 3": "1.0",
+    "Investment in 4": "1.0",
+    "Total NPV": "42000.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of regular models": "6.0",
+    "The number of premium models": "6.0",
+    "The total profit": "81000.0"
+}

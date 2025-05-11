@@ -1,0 +1,5 @@
+{
+    "The number of long desks": "0.0",
+    "The number of short desks": "20.0",
+    "The seating availability": "40.0"
+}

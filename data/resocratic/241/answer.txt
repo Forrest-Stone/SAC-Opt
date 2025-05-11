@@ -1,0 +1,9 @@
+{
+    "Number of Units of ProductA": "100.0",
+    "Number of Units of ProductB": "900.0",
+    "Number of Units of ProductC": "0.0",
+    "Investment in Automation for ProductA": "0.0",
+    "Investment in Automation for ProductB": "35500.0",
+    "Investment in Automation for ProductC": "0.0",
+    "Total Profit": "2304500.00000000"
+}

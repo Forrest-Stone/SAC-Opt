@@ -1,0 +1,14 @@
+The number of drivers and crew members required for each time period of a certain day and night service bus route is shown in Table 1-17.
+Table 1-17
+\begin{tabular}{c|c|c}
+\hline Shift & Time & Number Required \\
+\hline 1 & $6: 00 \sim 10: 00$ & 60 \\
+\hline 2 & $10: 00 \sim 14: 00$ & 70 \\
+\hline 3 & $14: 00 \sim 18: 00$ & 60 \\
+\hline 4 & $22: 00 \sim 22: 00$ & 50 \\
+\hline 5 & $22: 00 \sim 2: 00$ & 20 \\
+\hline 6 & $2: 00 \sim 6: 00$ & 30 \\
+\hline
+\end{tabular}
+
+Assuming the drivers and crew members start working at the beginning of each time period and work continuously for eight hours, how many drivers and crew members should be equipped for this bus route at least? Provide the linear programming model for this problem.

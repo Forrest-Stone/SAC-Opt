@@ -1,0 +1,9 @@
+{
+    "Number of Trips for TruckX": "0.0",
+    "Number of Trips for TruckY": "70.0",
+    "Number of Trips for TruckZ": "0.0",
+    "Investment in Upgrading TruckX": "0.0",
+    "Investment in Upgrading TruckY": "47500.0",
+    "Investment in Upgrading TruckZ": "0.0",
+    "Total Revenue": "1102500.0"
+}

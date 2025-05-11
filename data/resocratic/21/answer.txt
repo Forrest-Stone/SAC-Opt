@@ -1,0 +1,5 @@
+{
+    "The number of servings for health supplement A": "0.0",
+    "The number of servings for health supplement B": "7",
+    "The minimum daily cost": "175"
+}

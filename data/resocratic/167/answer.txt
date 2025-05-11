@@ -1,0 +1,5 @@
+{
+    "The number of seasonal volunteers": "14.0",
+    "The number of full-time volunteers": "34.0",
+    "The total number of gifts delivered": "342.0"
+}

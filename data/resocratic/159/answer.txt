@@ -1,0 +1,5 @@
+{
+    "The acres processed by windrower": "100.0",
+    "The acres processed by harvester": "100.0",
+    "The amount of hay processed": "1800.0"
+}

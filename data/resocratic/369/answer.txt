@@ -1,0 +1,5 @@
+{
+    "The number of fish meals": "4.0",
+    "The number of chicken meals": "9.0",
+    "The total fat intake": "118.0"
+}

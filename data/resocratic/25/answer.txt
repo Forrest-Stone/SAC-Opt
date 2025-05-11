@@ -1,0 +1,5 @@
+{
+    "The acres for traditional machine": "300.0",
+    "The acres for modern machine": "200.0",
+    "The amount of tea leaves picked": "17000.0"
+}

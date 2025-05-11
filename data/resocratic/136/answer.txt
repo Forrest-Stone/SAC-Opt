@@ -1,0 +1,7 @@
+{
+    "The number of pounds of Super Two produced at Fresno": "5000.0",
+    "The number of pounds of Super Two produced at Dearborn": "1000.0",
+    "The number of pounds of Green Grow produced at Fresno": "0.0",
+    "The number of pounds of Green Grow produced at Dearborn": "5000.0",
+    "The maximum profit": "60000.0"
+}

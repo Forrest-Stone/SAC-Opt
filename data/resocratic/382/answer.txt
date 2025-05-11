@@ -1,0 +1,6 @@
+{
+    "The number of low quality face wash": "46.0",
+    "The number of medium quality face wash": "2.0",
+    "The number of high quality face wash": "12.0",
+    "The total profit": "260.0"
+}

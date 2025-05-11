@@ -1,0 +1,5 @@
+{
+    "The number of small bottles": "134.0",
+    "The number of large bottles": "66.0",
+    "The amount of honey transported": "1990.0"
+}

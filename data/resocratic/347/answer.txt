@@ -1,0 +1,5 @@
+{
+    "The number of blankets to knit": "0.0",
+    "The number of sweaters to knit": "10.0",
+    "The maximum profit": "50.0"
+}

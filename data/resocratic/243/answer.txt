@@ -1,0 +1,7 @@
+{
+    "Number of day phone interviews": "200.0",
+    "Number of night phone interviews": "480.0",
+    "Number of day personal interviews": "0.0",
+    "Number of night personal interviews": "0.0",
+    "Total donations": "1840.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of blood tests": "237.0",
+    "The number of ear tests": "79.0",
+    "The total number of tests performed": "316.0"
+}

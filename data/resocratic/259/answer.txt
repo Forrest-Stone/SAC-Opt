@@ -1,0 +1,5 @@
+{
+    "The number of labradors": "0.0",
+    "The number of golden retrievers": "250.0",
+    "The number of newspapers delivered": "2500.0"
+}

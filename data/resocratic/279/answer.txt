@@ -1,0 +1,5 @@
+{
+    "The number of acres for small oil wells": "0.0",
+    "The number of acres for large oil wells": "225.0",
+    "The total production of oil": "1125.0"
+}

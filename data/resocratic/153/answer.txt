@@ -1,0 +1,7 @@
+{
+    "The quantity of paper stock 1": "400.0",
+    "The quantity of paper stock 2": "0.0",
+    "The quantity of paper stock 3": "0.0",
+    "The quantity of paper stock 4": "100.0",
+    "The minimum cost": "65000.0"
+}

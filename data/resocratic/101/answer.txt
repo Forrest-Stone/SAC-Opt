@@ -1,0 +1,5 @@
+{
+    "Number of acres for peaches": "80.0",
+    "Number of acres for nectarines": "0.0",
+    "Total profit": "16000.0"
+}

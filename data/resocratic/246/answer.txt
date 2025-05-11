@@ -1,0 +1,5 @@
+{
+    "The number of small bins": "27.0",
+    "The number of large bins": "9.0",
+    "The total amount of recycling material collected": "1215.0"
+}

@@ -1,0 +1,3 @@
+{
+    "The maximum profit you can get": "3600.0"
+}

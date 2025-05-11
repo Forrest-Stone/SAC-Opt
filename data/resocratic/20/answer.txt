@@ -1,0 +1,5 @@
+{
+    "The number of printed arts": "14.0",
+    "The number of paintings": "22.0",
+    "Total profit": "246.0"
+}

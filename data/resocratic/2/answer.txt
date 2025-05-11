@@ -1,0 +1,5 @@
+{
+    "The number of Process J": "0.0",
+    "The number of Process P": "250.0",
+    "The total metal extracted": "2250.0"
+}

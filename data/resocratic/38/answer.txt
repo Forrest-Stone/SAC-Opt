@@ -1,0 +1,5 @@
+{
+    "The number of bags of Drummondville blend to produce": "36.0",
+    "The number of bags of Victoriaville blend to produce": "4.0",
+    "The maximum profit": "208.0"
+}

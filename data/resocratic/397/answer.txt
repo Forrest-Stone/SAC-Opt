@@ -1,0 +1,5 @@
+{
+    "The number of manual slicers": "1.0",
+    "The number of automatic slicers": "6.0",
+    "The minimum total number of slicers": "7.0"
+}

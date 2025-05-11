@@ -1,0 +1,5 @@
+{
+    "The number of circular tables": "60.0",
+    "The number of rectangular tables": "50.0",
+    "The total number of catered guests": "1080.0"
+}

@@ -1,0 +1,1 @@
+Find the dimensions of the rectangle of largest area having fixed perimeter 100.

@@ -1,0 +1,9 @@
+{
+    "The number of shirts produced each week": "0.0",
+    "The number of shorts produced each week": "0.0",
+    "The number of pants produced each week": "25.0",
+    "Shirt machinery rented": "0.0",
+    "Shorts machinery rented": "0.0",
+    "Pants machinery rented": "1.0",
+    "The maximum weekly profit": "75.0"
+}

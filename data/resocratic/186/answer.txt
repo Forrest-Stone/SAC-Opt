@@ -1,0 +1,5 @@
+{
+    "The number of Process A": "150.0",
+    "The number of Process B": "0.0",
+    "The total number of coins that can be plated": "750.0"
+}

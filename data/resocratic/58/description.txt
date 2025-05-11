@@ -1,0 +1,1 @@
+You want to make a rectangular pen for hogs. You have 800 ft of fencing. There is a river on one side of your property, and you do not need to fence that side. What is the dimension of the rectangular pen that maximizes the area?

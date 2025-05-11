@@ -1,0 +1,5 @@
+{
+    "The number of scooters": "75.0",
+    "The number of rickshaws": "50.0",
+    "The total number of vehicles used": "125.0"
+}

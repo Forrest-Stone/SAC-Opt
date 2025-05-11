@@ -1,0 +1,9 @@
+A city is planning to install three types of renewable energy facilities: solar, wind, and hydro. The city needs to decide the number of each type of facility to build and the amount of land required for each facility. The goal is to maximize the total energy output while considering the available land and budget constraints. The energy output per facility and the cost per facility are given in the following Table.
+
+| Facility Type | Energy Output per Facility | Cost per Facility |
+|---------------|---------------------------|------------------|
+| Solar         | 500 kWh                   | $10,000          |
+| Wind          | 700 kWh                   | $15,000          |
+| Hydro         | 1000 kWh                  | $20,000          |
+
+The city has a total of 100 acres of land available for the installation of these facilities. The city has a budget of $1000,000 for the construction of these facilities. The city aims to have at least 10,000 kWh of energy output per day. The city wants to ensure that at least 100 facility is installed.

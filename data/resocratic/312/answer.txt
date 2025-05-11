@@ -1,0 +1,5 @@
+{
+    "The length of the pen": "400.000",
+    "The width of the pen": "200.00",
+    "The maximum area of the pen": "80000.0"
+}

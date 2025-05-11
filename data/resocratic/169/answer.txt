@@ -1,0 +1,5 @@
+{
+    "The number of servings of almonds": "29.0",
+    "The number of servings of cashews": "14.0",
+    "The total fat intake": "603.0"
+}

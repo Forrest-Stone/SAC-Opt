@@ -1,0 +1,5 @@
+{
+    "Number of helicopter trips": "8.0",
+    "Number of truck trips": "8.0",
+    "Total amount of pollution produced": "120.0"
+}

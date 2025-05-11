@@ -1,0 +1,5 @@
+{
+    "Number of A400 keyboards to produce each week": "7.0",
+    "Number of P500 keyboards to produce each week": "1.0",
+    "Maximum profit": "325.0"
+}

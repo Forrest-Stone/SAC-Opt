@@ -1,0 +1,6 @@
+{
+    "The number of sling chairs to produce": "0.0",
+    "The number of Adirondack chairs to produce": "24.0",
+    "The number of hammocks to produce": "0.0",
+    "The maximum profit": "2400.0"
+}

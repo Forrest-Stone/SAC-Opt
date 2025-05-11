@@ -1,0 +1,5 @@
+{
+    "The number of dine-in stores": "2.0",
+    "The number of food trucks": "6.0",
+    "The total number of stores": "8.0"
+}

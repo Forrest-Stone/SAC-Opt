@@ -1,0 +1,5 @@
+{
+    "The number of vehicle tickets sold": "16.0",
+    "The number of passenger tickets sold": "84.0",
+    "Total profit": "5000.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of units of product A to produce": "64.0",
+    "The number of units of product B to produce": "43.0",
+    "The maximum profit": "364.0"
+}

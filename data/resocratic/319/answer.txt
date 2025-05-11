@@ -1,0 +1,5 @@
+{
+    "The number of small teams": "40.0",
+    "The number of large teams": "6.0",
+    "The total amount of lawn that can be mowed": "2480.0"
+}

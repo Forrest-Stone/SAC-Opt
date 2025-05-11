@@ -1,0 +1,5 @@
+{
+    "The number of regular handbags": "0.0",
+    "The number of premium handbags": "475.0",
+    "The monthly profit": "85500.0"
+}

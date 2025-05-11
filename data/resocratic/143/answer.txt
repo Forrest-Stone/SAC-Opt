@@ -1,0 +1,5 @@
+{
+    "The number of small jars": "400.0",
+    "The number of large jars": "400.0",
+    "The total number of jars used": "800.0"
+}

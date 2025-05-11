@@ -1,0 +1,5 @@
+{
+    "The number of wide trails": "0.0",
+    "The number of narrow trails": "0.0",
+    "The total amount of garbage produced": "0.0"
+}

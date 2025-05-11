@@ -1,0 +1,5 @@
+{
+    "The number of regular donuts": "2.0",
+    "The number of jelly-filled donuts": "832.0",
+    "The total monthly profit": "2500.0"
+}

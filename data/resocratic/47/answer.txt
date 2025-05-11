@@ -1,0 +1,5 @@
+{
+    "The number of kg of maple syrup made": "5.0",
+    "The number of kg of maple candy made": "5.0",
+    "The total profit": "175.0"
+}

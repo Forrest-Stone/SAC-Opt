@@ -1,0 +1,5 @@
+{
+    "The number of regular hot-dogs to make": "50.0",
+    "The number of premium hot-dogs to make": "250.0",
+    "Maximum profit per day": "1400.0"
+}

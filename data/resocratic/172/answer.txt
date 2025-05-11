@@ -1,0 +1,5 @@
+{
+    "The number of glass jars": "23.0",
+    "The number of plastic jars": "47.0",
+    "The total number of jars filled": "70.0"
+}

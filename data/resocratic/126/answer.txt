@@ -1,0 +1,5 @@
+{
+    "The number of hot air balloon rides": "10.0",
+    "The number of gondola lift rides": "5.0",
+    "The total pollution produced": "175.0"
+}

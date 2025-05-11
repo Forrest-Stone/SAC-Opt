@@ -1,0 +1,5 @@
+{
+    "The number of bus trips": "10.0",
+    "The number of car trips": "17.0",
+    "The total time required to transport the monkeys (minutes)": "555.0"
+}

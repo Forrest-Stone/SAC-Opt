@@ -1,0 +1,6 @@
+{
+    "openai_api_key": "OPENAI_API_KEY",
+    "base_url": "BASE_URL",
+    "together_api_key": "TOGETHER_API_KEY",
+    "mistral_api_key": "MISTRAL_API_KEY"
+}

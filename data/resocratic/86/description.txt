@@ -1,0 +1,1 @@
+You need to construct a rectangular fence. The area of the rectangle must be at least 1600 ft. What are the dimensions of the rectangular pen to minimize the amount of material needed?

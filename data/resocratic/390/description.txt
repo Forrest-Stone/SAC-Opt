@@ -1,0 +1,6 @@
+Wilson Creek Farm has 200 acres of land available for planting. The owner is considering planting three crops: corn, soybeans, and wheat. The production yield, water requirements, and labor requirements for a salable crop are given here. The owner expects to have only 35,000 gallons of water available per week to use for the crops, and during the growing season he will only have 8000 person-hours of labor available. The expected profit per bushel of each crop is $1.00 for corn, $1.60 for soybeans, and $3.00 for wheat. The owner can use any mix of crops (i.e., he can plant the same crop on all 200 acres or he can plant all three crops in different proportions). Formulate the problem as a linear program to find the profit-maximizing planting strategy. 
+Here is the data for the problem:
+Crop: Corn, Soybeans, Wheat 
+Bushels/Acre Produced: 300 200 80 
+Water Required (gal/acre/week): 200 150 125 
+Person-Hours Labor Required/Acre: 35 40 30

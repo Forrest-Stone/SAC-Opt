@@ -1,0 +1,5 @@
+{
+    "The first number": "86.60253927502986",
+    "The second number": "8.660254148185787",
+    "The minimized sum": "173.20508075688772"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of boat trips": "12.0",
+    "The number of canoe trips": "23.0",
+    "The total amount of time": "1160.0"
+}

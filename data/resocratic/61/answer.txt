@@ -1,0 +1,5 @@
+{
+    "The number of calcium pills": "90.0",
+    "The number of vitamin D pills": "40.0",
+    "The total time for the medication to be effective": "690.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of escalators": "18.0",
+    "The number of elevators": "5.0",
+    "The total units of space taken": "100.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of counter-top sized machines": "0.0",
+    "The number of fridge-sized machines": "7.0",
+    "Total number of machines needed": "7.0"
+}

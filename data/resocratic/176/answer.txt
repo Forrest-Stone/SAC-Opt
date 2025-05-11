@@ -1,0 +1,6 @@
+{
+    "Acres of Corn to plant": "0",
+    "Acres of Soybeans to plant": "200.0",
+    "Acres of Wheat to plant": "0.0",
+    "Maximum Profit": "64000.0"
+}

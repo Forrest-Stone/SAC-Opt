@@ -1,0 +1,5 @@
+{
+    "The number of waiters": "35.0",
+    "The number of managers": "15.0",
+    "The total wage bill": "72000.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of bottles of black milk tea": "136.0",
+    "The number of bottles of green milk tea": "45.0",
+    "Total profit": "655.0"
+}

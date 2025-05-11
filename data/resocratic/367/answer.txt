@@ -1,0 +1,5 @@
+{
+    "The number of trains": "20.0",
+    "The number of planes": "15.0",
+    "The total profit": "310.0"
+}

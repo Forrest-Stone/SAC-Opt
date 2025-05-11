@@ -1,0 +1,5 @@
+{
+    "The units of chemical A": "375.0",
+    "The units of chemical B": "1125.0",
+    "The total time it takes for the mixed bread to be ready": "61875.0"
+}

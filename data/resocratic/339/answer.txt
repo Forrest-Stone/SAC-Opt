@@ -1,0 +1,5 @@
+{
+    "The number of subsoil bags": "24.0",
+    "The number of topsoil bags": "10.0",
+    "The total amount of water required": "300.0"
+}

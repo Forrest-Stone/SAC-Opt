@@ -1,0 +1,5 @@
+{
+    "The number of small wagons": "45.0",
+    "The number of large wagons": "22.0",
+    "The total number of wagons needed": "67.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of milk chocolate bars": "0.0",
+    "The number of dark chocolate bars": "0.0",
+    "Total production time": "0.0"
+}

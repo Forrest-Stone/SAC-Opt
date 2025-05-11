@@ -1,0 +1,5 @@
+{
+    "The number of Experiment 1 conducted": "10.0",
+    "The number of Experiment 2 conducted": "0.0",
+    "The total units of green gas produced": "50.0"
+}

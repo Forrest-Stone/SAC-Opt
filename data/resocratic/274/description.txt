@@ -1,0 +1,11 @@
+Glueco has 5 different production lines for glue and needs to assign workers to each production line. The production rates for each type of glue on each production line are given in the following Table.
+
+| Production Line | Glue 1 Units/Worker/Hour | Glue 2 Units/Worker/Hour | Glue 3 Units/Worker/Hour |
+|-----------------|--------------------------|--------------------------|--------------------------|
+| 1               | 20                       | 30                       | 40                       |
+| 2               | 50                       | 35                       | 45                       |
+| 3               | 30                       | 40                       | 50                       |
+| 4               | 40                       | 45                       | 50                       |
+| 5               | 25                       | 35                       | 45                       |
+
+Glueco needs to produce at least 120 units of glue 1, at least 150 units of glue 2, and at least 200 units of glue 3. The five production lines can only be opened or closed at the same time. Please determine the minimum time to meet the weekly demand. The company has a total of 80 workers available and each line can be utilized by up to 20 workers at a time.

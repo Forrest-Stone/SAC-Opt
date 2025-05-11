@@ -1,0 +1,5 @@
+{
+    "The number of first-dose vaccines": "40.0",
+    "The number of second-dose vaccines": "40.0",
+    "The amount of gelatine used": "3200.0"
+}

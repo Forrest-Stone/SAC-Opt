@@ -1,0 +1,5 @@
+{
+    "The number of containers": "40.0",
+    "The number of trucks": "20.0",
+    "The total number of containers and trucks": "60.0"
+}

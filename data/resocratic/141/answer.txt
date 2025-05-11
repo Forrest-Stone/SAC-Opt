@@ -1,0 +1,5 @@
+{
+    "The number of soda cans": "1716.0",
+    "The number of soda bottles": "571.0",
+    "The total number of units produced": "2287.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of regular glass panes": "60.0",
+    "The number of tempered glass panes": "0.0",
+    "The maximum profit": "480.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of personal licenses": "138.0",
+    "The number of commercial licenses": "162.0",
+    "Total profit": "256500.0"
+}

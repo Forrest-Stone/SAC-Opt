@@ -1,0 +1,5 @@
+{
+    "The number of matcha ice cream": "1.0",
+    "The number of orange sorbet": "2.0",
+    "The total amount of flavoring needed": "10.0"
+}

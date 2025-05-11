@@ -1,0 +1,5 @@
+{
+    "The number of units of chlorine": "166.0",
+    "The number of units of water softener": "334.0",
+    "The total time for the pool to be ready": "834.0"
+}

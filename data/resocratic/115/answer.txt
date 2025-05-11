@@ -1,0 +1,21 @@
+{
+    "Month 1 Regular-time production": "370.0",
+    "Month 1 Overtime production": "0.0",
+    "Month 1 Inventory at the end of the month": "10.0",
+    "Month 2 Regular-time production": "420.0",
+    "Month 2 Overtime production": "0.0",
+    "Month 2 Inventory at the end of the month": "0.0",
+    "Month 3 Regular-time production": "420.0",
+    "Month 3 Overtime production": "0.0",
+    "Month 3 Inventory at the end of the month": "40.0",
+    "Month 4 Regular-time production": "420.0",
+    "Month 4 Overtime production": "10.0",
+    "Month 4 Inventory at the end of the month": "20.0",
+    "Month 5 Regular-time production": "420.0",
+    "Month 5 Overtime production": "80.0",
+    "Month 5 Inventory at the end of the month": "0.0",
+    "Month 6 Regular-time production": "420.0",
+    "Month 6 Overtime production": "20.0",
+    "Month 6 Inventory at the end of the month": "0.0",
+    "Total cost": "103960.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of in-vivo experiments": "0.0",
+    "The number of ex-vivo experiments": "0.0",
+    "Total radiation received": "0.0"
+}

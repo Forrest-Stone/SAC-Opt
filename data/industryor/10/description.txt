@@ -1,0 +1,21 @@
+A company needs to decide whether to hire some of the five candidates to join their research and development team. The salary requirements for candidates F, G, H, I, and J are $12,000, $15,000, $18,000, $5,000, and $10,000 respectively. The company wants to minimize the total amount paid to the candidates while staying within the budget.
+
+The company has a budget of $40,000 and wants to hire a maximum of 4 new employees.
+
+The skill levels of the candidates are as follows:
+Candidate F: Level 2
+Candidate G: Level 3
+Candidate H: Level 4
+Candidate I: Level 1
+Candidate J: Level 2
+The company needs to ensure that the total skill level of the hired employees is at least 8.
+
+The project management experience in years for each candidate is as follows:
+Candidate F: 1 year
+Candidate G: 2 years
+Candidate H: 2 years
+Candidate I: 5 years
+Candidate J: 4 years
+They want the total project management experience in the team to be at least 8 years.
+
+Due to the similar technical backgrounds of candidates G and J, the company can only choose one of them at most.

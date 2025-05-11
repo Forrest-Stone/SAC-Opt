@@ -1,0 +1,7 @@
+Deutchlander Machine Company (DMC) manufactures two types of printing presses: a four-color litho and a two-color litho. Demand for both products is high and exceeds DMC's production capacity. The production is constrained by the availability of steel rollers, gear cutting capacity, and roller polishing capacity. The following Table details the requirements for each type of press. DMC can acquire 100 steel rollers per week, has 160 hours available for gear cutting, and 40 hours for roller polishing each week. To maintain market presence without increasing prices, DMC aims to produce at least two units of each press weekly. The profit for each four-color press is DM24,000 and for each two-color press is DM10,000. Maximize DMC's profit.
+
+Table (Resource requirements for each type of printing press):
+| Printing Press Type | Steel Rollers Required | Gear Cutting Time (hours) | Polishing Time (hours) | Profit per Unit (DM) |
+| ------------------- | ---------------------- | ------------------------- | ---------------------- | -------------------- |
+| Four-color litho    | 16                     | 30                        | 8                      | 24,000               |
+| Two-color litho     | 8                      | 12                        | 3                      | 10,000               |

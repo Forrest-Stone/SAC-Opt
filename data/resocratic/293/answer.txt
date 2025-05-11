@@ -1,0 +1,5 @@
+{
+    "The number of large planes": "7.0",
+    "The number of small planes": "9.0",
+    "The total number of planes": "16.0"
+}

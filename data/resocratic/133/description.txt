@@ -1,0 +1,1 @@
+You need to construct a rectangular play area alongside the wall of your house. You have 100 feet of fence. The wall of the house bounds one side. Please find the dimensions of the play area that maximize the area.

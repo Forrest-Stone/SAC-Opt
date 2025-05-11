@@ -1,0 +1,9 @@
+Western Pulp (WP) produces recycled paperboard for box manufacturers by combining four grades of recycled paper stock. Each grade of stock has a different strength, color, and texture. The strength, color, and texture of the paperboard are approximately a weighted average of those characteristics of the paper inputs. The following table gives the characteristics of the paper stocks and their cost per ton. WP has received an order for 500 tons of paperboard with a strength rating of at least 7, a color of at least 5, and texture of at least 6. WP would like to determine the least costly mix required to produce this paperboard.
+
+Table (Characteristics and cost per ton of each paper grade):
+| Paper Grade | Strength | Color | Texture | Cost/Ton |
+|-------------|----------|-------|---------|----------|
+| 1           | 8        | 9     | 8       | $150     |
+| 2           | 6        | 7     | 5       | $110     |
+| 3           | 5        | 5     | 6       | $90      |
+| 4           | 3        | 4     | 5       | $50      |

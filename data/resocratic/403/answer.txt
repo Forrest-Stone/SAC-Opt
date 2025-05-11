@@ -1,0 +1,5 @@
+{
+    "The number of square feet planted with sunflowers": "97.014925",
+    "The number of square feet planted with roses": "0.0",
+    "The total profit": "43656.716250000005"
+}

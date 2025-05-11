@@ -1,0 +1,6 @@
+{
+    "The number of commercials on Pi TV": "3.0",
+    "The number of commercials on Beta Video": "8.0",
+    "The number of commercials on Gamma Live": "0.0",
+    "Total audience reached": "46000.0"
+}

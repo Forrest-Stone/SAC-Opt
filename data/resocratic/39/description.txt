@@ -1,0 +1,1 @@
+Find two positive numbers. The sum of the two numbers should be 300. Maximize the product of the two numbers.

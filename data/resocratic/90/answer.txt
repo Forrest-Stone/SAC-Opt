@@ -1,0 +1,5 @@
+{
+    "The number of mango bubble tea": "3.0",
+    "The number of lychee bubble tea": "2.0",
+    "The total amount of tea needed": "36.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of commercials during cartoons": "1.0",
+    "The number of commercials during kids-movies": "7.0",
+    "The total cost of the commercials": "89000.0"
+}

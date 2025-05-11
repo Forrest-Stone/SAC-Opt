@@ -1,0 +1,1 @@
+In an easy linear program, we have two vectors $x_{1}$, $x_{2}$, which $(x_{1},x_{2})\in\mathbb{R}^{2}$. As the constraints are $x_{1}\geq0, x_{2}\geq0,x_{2}-x_{1}\leq1,x_{1}+6x_{2}\leq15$, and $4x_{1}-x_{2}\leq10$. We need to find a point $(x_{1},x_{2})$ of this function to maximize the value $x_{1}+x_{2}$.

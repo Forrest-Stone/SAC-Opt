@@ -1,0 +1,5 @@
+{
+    "The number of packages of fish meat": "80.0",
+    "The number of packages of shrimp meat": "0.0",
+    "The maximum profit": "560.0"
+}

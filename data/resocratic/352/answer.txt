@@ -1,0 +1,3 @@
+{
+    "Total Profit per day": "1500.0"
+}

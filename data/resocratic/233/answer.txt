@@ -1,0 +1,5 @@
+{
+    "The number of wide pipes": "13.0",
+    "The number of narrow pipes": "39.0",
+    "The total number of pipes": "52.0"
+}

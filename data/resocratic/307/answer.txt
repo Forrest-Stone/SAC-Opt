@@ -1,0 +1,5 @@
+{
+    "The width of the poster": "7.071067811865474",
+    "The height of the poster": "14.142135623730955",
+    "The minimum area of paper used": "164.5685424949238"
+}

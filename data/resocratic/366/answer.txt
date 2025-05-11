@@ -1,0 +1,5 @@
+{
+    "The number of radio ads": "40",
+    "The number of social media ads": "76.0",
+    "The total viewers reached": "6220000.0"
+}

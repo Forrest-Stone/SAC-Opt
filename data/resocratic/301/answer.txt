@@ -1,0 +1,5 @@
+{
+    "The number of student painters": "66.0",
+    "The number of full-time painters": "34.0",
+    "The total wage bill": "30200.0"
+}

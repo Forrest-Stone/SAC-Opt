@@ -1,0 +1,5 @@
+{
+    "The number of consoles sold": "50.0",
+    "The number of discs sold": "250.0",
+    "Maximum profit": "17500.0"
+}

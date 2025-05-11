@@ -1,0 +1,5 @@
+{
+    "The number of thin jars": "1.0",
+    "The number of stubby jars": "26.0",
+    "The profit": "239.0"
+}

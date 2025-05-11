@@ -1,0 +1,9 @@
+{
+    "The optimal number of fire stations to be built is": "2.0",
+    "Whether a fire stations should be built in City 1": "0.0",
+    "Whether a fire stations should be built in City 2": "1.0",
+    "Whether a fire stations should be built in City 3": "0.0",
+    "Whether a fire stations should be built in City 4": "1.0",
+    "Whether a fire stations should be built in City 5": "0.0",
+    "Whether a fire stations should be built in City 6": "0.0"
+}

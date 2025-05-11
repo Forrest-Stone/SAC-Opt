@@ -1,0 +1,5 @@
+{
+    "The number of simple canoes to produce": "150.0",
+    "The number of luxury canoes to produce": "225.0",
+    "The maximum overall net profit": "3300.0"
+}

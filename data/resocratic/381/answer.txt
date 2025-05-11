@@ -1,0 +1,5 @@
+{
+    "The number of retail stores": "6.0",
+    "The number of factory outlets": "0.0",
+    "The total number of stores": "6.0"
+}

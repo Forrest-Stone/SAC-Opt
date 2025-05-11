@@ -1,0 +1,4 @@
+The Zhang family has decided to invest in several different restaurants. Restaurant A has an annual income of $15,000, Restaurant B has an annual income of $40,000, Restaurant C has an annual income of $30,000, and Restaurant D has an annual income of $50,000. They need to decide whether to purchase each restaurant, and each restaurant can only be purchased once. Help them decide which restaurants to purchase to maximize their annual income.
+The cost of Restaurant A is $1.6 million, the cost of Restaurant B is $2.5 million, the cost of Restaurant C is $1.8 million, and the cost of Restaurant D is $3 million. The Zhang family's investment budget is $6 million.
+
+If they purchase Restaurant D, they cannot purchase Restaurant A.

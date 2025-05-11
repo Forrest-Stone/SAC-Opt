@@ -1,0 +1,5 @@
+{
+    "The number of premium printers": "7.0",
+    "The number of regular printers": "0.0",
+    "The total number of printers": "7.0"
+}

@@ -1,0 +1,5 @@
+{
+    "The number of large mobile production units": "15.0",
+    "The number of small mobile production units": "5.0",
+    "The total number of parking spots required": "35.0"
+}

@@ -1,0 +1,1 @@
+Of all rectangles of area 100, which has the smallest perimeter?

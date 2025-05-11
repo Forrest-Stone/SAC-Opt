@@ -1,0 +1,7 @@
+{
+    "The decision to put item 1 in the knapsack": "1.0",
+    "The decision to put item 2 in the knapsack": "1.0",
+    "The decision to put item 3 in the knapsack": "0.0",
+    "The decision to put item 4 in the knapsack": "0.0",
+    "The maximum total value of the knapsack": "40.0"
+}

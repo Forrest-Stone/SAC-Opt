@@ -1,0 +1,5 @@
+{
+    "The number of low power air conditioners": "0",
+    "The number of high power air conditioners": "15",
+    "The total number of air conditioners": "15"
+}

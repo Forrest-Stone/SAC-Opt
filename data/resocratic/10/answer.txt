@@ -1,0 +1,5 @@
+{
+    "The number of alpha brand bottles": "4.0",
+    "The number of omega brand bottles": "2.0",
+    "The total sugar intake": "110.0"
+}

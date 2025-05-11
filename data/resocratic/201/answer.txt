@@ -1,0 +1,5 @@
+{
+    "The amount of pork in kg": "3.125",
+    "The amount of chicken in kg": "1.25",
+    "The minimum cost of the mixture": "187.5"
+}

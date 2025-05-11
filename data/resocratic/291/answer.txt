@@ -1,0 +1,5 @@
+{
+    "The number of units of beans": "11",
+    "The number of units of onions": "8",
+    "The minimum cost": "130"
+}

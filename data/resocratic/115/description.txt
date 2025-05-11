@@ -1,0 +1,11 @@
+Basel Tool and Die Company (BTD) manufactures large industrial pipe wrenches in one of its factories. The marketing department has estimated the demand for this product over the next 6 months as shown in the following Table. With the current labor force, BTD can produce approximately 420 pipe wrenches per month at a cost of $40 per wrench using regular-time production. Additionally, up to 80 wrenches per month can be produced using overtime at a cost of $45 per wrench. Wrenches can also be produced in advance and stored in inventory at a cost of $3 per month per wrench. The monthly demand for wrenches must be met without fail. At the end of December (beginning of January), BTD has an inventory of 10 wrenches. BTD aims to plan its production, including overtime, and inventory for the next 6 months to maximize profit. Assuming the revenue for these wrenches is fixed, the production manager can maximize profit by minimizing the total costs of production and inventory.
+
+Table (Estimated demand for pipe wrenches over the next 6 months):
+| Month    | Demand |
+| -------- | ------ |
+| January  | 370    |
+| February | 430    |
+| March    | 380    |
+| April    | 450    |
+| May      | 520    |
+| June     | 440    |

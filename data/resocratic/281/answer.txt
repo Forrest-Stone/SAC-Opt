@@ -1,0 +1,12 @@
+{
+    "The production units for A on machine 1": "450.0",
+    "The production units for B on machine 1": "0.0",
+    "The production units for C on machine 1": "1100.0",
+    "The production units for A on machine 2": "150.0",
+    "The production units for B on machine 2": "500.0",
+    "The production units for C on machine 2": "0.0",
+    "The production units for A on machine 3": "1150.0",
+    "The production units for B on machine 3": "0.0",
+    "The production units for C on machine 3": "0.0",
+    "The minimum production cost": "2910.0"
+}

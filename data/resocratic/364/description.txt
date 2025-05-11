@@ -1,0 +1,8 @@
+Suppose a company manufactures two products, A and B, using three inputs: labor, material R, and material S. The demands for the products are such that the company can sell as much of each product as it can produce and earn a profit of $3 per unit of A and $4 per unit of B. However, only 900 pounds of R, 675 pounds of S, and 1200 person-hours of labor are available to the company each day. Formulate the company's problem as a linear program to maximize profit.
+
+Table (The amount of each input required to make one unit of product):
+| Input       | Product A | Product B |
+| ----------- | --------- | --------- |
+| Material R  | 6 pounds  | 12 pounds |
+| Material S  | 7.5 pounds| 4.5 pounds|
+| Labor       | 9 hours   | 6 hours   |

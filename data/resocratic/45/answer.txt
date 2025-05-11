@@ -1,0 +1,5 @@
+{
+    "The number of road bikes produced": "4.0",
+    "The number of mountain bikes produced": "0.0",
+    "The total profit": "280.0"
+}

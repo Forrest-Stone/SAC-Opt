@@ -1,0 +1,1 @@
+A landscape architect plans to enclose a rectangular region in a botanical garden. The area of the rectangular region should be at least 3000 square feet. She will use shrubs costing $25 per foot along three sides and fencing costing $10 per foot along the fourth side. What dimensions of the rectangular region will result in the least possible cost?

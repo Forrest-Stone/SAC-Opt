@@ -1,0 +1,9 @@
+A manufacturing company produces three types of products: ProductA, ProductB, and ProductC. The company needs to decide the number of units to produce for each product in the next month and how much to invest in automation for each product to increase production efficiency. The relationship between automation investment and profit per unit for each product is given in the following Table.
+
+| Product | Initial Profit per Unit | Increase in Profit per Unit per $100 Automation Investment |
+|---------|-------------------------|-----------------------------------------------------------|
+| ProductA | $50                     | $5                                                         |
+| ProductB | $70                     | $7                                                         |
+| ProductC | $60                     | $6                                                         |
+
+The company aims to maximize the total profit from all products. The production cost for ProductA is $10 per unit, the production cost for ProductB is $15 per unit, and the production cost for ProductC is $20 per unit. The company has a total budget of $50,000 for production and automation investments. The production capacity for the next month is limited to 1,000 units in total. Due to market demand, the company must produce at least 100 units of ProductA and 150 units of ProductB.

@@ -1,0 +1,8 @@
+{
+    "Number of Workers on Production Line 1": "0.0",
+    "Number of Workers on Production Line 2": "20.0",
+    "Number of Workers on Production Line 3": "20.0",
+    "Number of Workers on Production Line 4": "20.0",
+    "Number of Workers on Production Line 5": "20.0",
+    "Minimum Time to Meet Weekly Demand": "0.05263157894736842"
+}

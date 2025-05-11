@@ -1,0 +1,6 @@
+{
+    "Number of Apple Butter batches to produce": "42.0",
+    "Number of Apple Sauce batches to produce": "0.0",
+    "Number of Apple Jelly batches to produce": "126.0",
+    "Total Revenue": "27510.0"
+}

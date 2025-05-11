@@ -1,0 +1,6 @@
+{
+    "The number of crepe cakes": "14.0",
+    "The number of sponge cakes": "0.0",
+    "The number of birthday cakes": "32.0",
+    "Total profit": "648.0"
+}

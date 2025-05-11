@@ -1,0 +1,5 @@
+{
+    "The number of four-color litho to produce": "2.0",
+    "The number of two-color litho to produce": "8.0",
+    "The maximum profit": "128000.0"
+}

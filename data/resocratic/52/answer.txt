@@ -1,0 +1,19 @@
+{
+    "The weekly cost of meeting demand is": "4750.0",
+    "Open New York Warehouse": "0.0",
+    "Open Los Angeles Warehouse": "1.0",
+    "Open Chicago Warehouse": "0.0",
+    "Open Atlanta Warehouse": "1.0",
+    "Units from New York to Region 1": "0.0",
+    "Units from New York to Region 2": "0.0",
+    "Units from New York to Region 3": "0.0",
+    "Units from Los Angeles to Region 1": "0.0",
+    "Units from Los Angeles to Region 2": "70.0",
+    "Units from Los Angeles to Region 3": "30.0",
+    "Units from Chicago to Region 1": "0.0",
+    "Units from Chicago to Region 2": "0.0",
+    "Units from Chicago to Region 3": "0.0",
+    "Units from Atlanta to Region 1": "80.0",
+    "Units from Atlanta to Region 2": "0.0",
+    "Units from Atlanta to Region 3": "10.0"
+}

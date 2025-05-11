@@ -1,0 +1,6 @@
+{
+    "The number of z-tube ads": "10.0",
+    "The number of soorchle ads": "0.0",
+    "The number of wassa ads": "0.0",
+    "The total audience": "4000000.0"
+}

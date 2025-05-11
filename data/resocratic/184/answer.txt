@@ -1,0 +1,5 @@
+{
+    "The number of solar calculators produced": "27.0",
+    "The number of finance calculators produced": "5.0",
+    "The maximum profit": "369.0"
+}

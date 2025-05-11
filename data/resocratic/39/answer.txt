@@ -1,0 +1,5 @@
+{
+    "The first number": "150.0000",
+    "The second number": "150.0000",
+    "The product of the two numbers": "22500.0"
+}
