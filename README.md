@@ -1,4 +1,4 @@
-# Self-Correcting Optimization Modeling via Iterative Semantic Alignment
+# SAC-Opt: Semantic Anchors for Iterative Correction in Optimization Modeling
 
 >
 
