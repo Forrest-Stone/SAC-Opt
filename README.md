@@ -12,7 +12,7 @@ The datasets are download from a recent survey _A Survey of Optimization Modelin
 We provide some datasets to get the natural language decription input and true-label values by the file `process_data.py`. And the process datasets are provided in the `data` folder.
 
 
-## Run the SCOpt
+## Run the SAC-Opt
 
 ### Setup the Packages and OpenAI API
 
