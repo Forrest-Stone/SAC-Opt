@@ -9,7 +9,7 @@
 The datasets are download from a recent survey _A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions_. The original datastes download link is [Datasets](https://github.com/LLM4OR/LLM4OR/tree/master/static/clean_benchmarks).
 
 
-We provide some datasets to get the natural language decription input and true-label values by the file `process_data.py`. And the process datasets are provided in the `data` folder.
+We provide some datasets to get the natural language decription input and true-label values by the file `process_data.py`. And the processed datasets are provided in the `data` folder.
 
 
 ## Run the SAC-Opt

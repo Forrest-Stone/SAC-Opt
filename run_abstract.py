@@ -4,7 +4,7 @@ import os
 import json
 
 from util import *
-from parameters import get_params
+from parameters_abstract import get_params
 from constraint import get_constraints
 from objective import get_objective
 from variables import get_vars
