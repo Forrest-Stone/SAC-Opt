@@ -1,6 +1,6 @@
 # SAC-Opt: Semantic Anchors for Iterative Correction in Optimization Modeling
 
->
+> Large language models (LLMs) have opened new paradigms in optimization modeling by enabling the generation of executable solver code from natural language descriptions. Despite this promise, existing approaches often typically rely on single-pass code generation or apply limited post-hoc fixes based on solver error messages, leaving undetected semantic errors that silently produce syntactically correct but logically flawed models. To address this challenge, we introduce SAC-Opt, a framework that leverages semantic anchors extracted from problem descriptions to guide iterative correction. At each iteration, SAC-Opt compares the original semantic anchors with the reconstructed anchors of the generated code and selectively regenerates only the components that fail to match. This anchor-driven correction enables fine-grained refinement of constraint and objective logic, promoting both fidelity and robustness without requiring additional training or supervision. Empirical results on seven public datasets demonstrate that SAC-Opt improves average modeling accuracy by 7.8\%, with gains of up to 21.9\% on the ComplexLP dataset. These findings underscore the importance of integrating semantic-anchored correction into LLM-based optimization workflows to ensure faithful translation from problem intent to solver-executable code.
 
 
 
