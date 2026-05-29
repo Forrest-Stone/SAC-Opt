@@ -1,3 +1,9 @@
+# SAC-Opt: Semantic Anchors for Iterative Correction in Optimization Modeling
+
+> Large language models (LLMs) have opened new paradigms in optimization modeling by enabling the generation of executable solver code from natural language descriptions. Despite this promise, existing approaches typically remain solver-driven: they rely on single-pass forward generation and apply limited post-hoc fixes based on solver error messages, leaving undetected semantic errors that silently produce syntactically correct but logically flawed models. To address this challenge, we propose SAC-Opt, a backward-guided correction framework that grounds optimization modeling in problem semantics rather than solver feedback. At each step, SAC-Opt aligns the original semantic anchors with those reconstructed from the generated code and selectively corrects only the mismatched components, driving convergence toward a semantically faithful model. This anchor-driven correction enables fine-grained refinement of constraint and objective logic, enhancing both fidelity and robustness without requiring additional training or supervision. Empirical results on seven public datasets demonstrate that SAC-Opt improves average modeling accuracy by 7.7\%, with gains of up to 21.9\% on the ComplexLP dataset. These findings highlight the importance of semantic-anchored correction in LLM-based optimization workflows to ensure faithful translation from problem intent to solver-executable code.
+
+[Paper in arXiv](https://arxiv.org/abs/2510.05115)
+
 ## Dataset
 
 The datasets are download from a recent survey _A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions_. The original datastes download link is [Datasets](https://github.com/LLM4OR/LLM4OR/tree/master/static/clean_benchmarks).
@@ -32,3 +38,21 @@ For the abstract model (complexor), where the parameters are separate from the p
 
 `python run_abstract.py --dataset complexor --problem aircraft_assignment
 `
+
+
+## Citation
+Please cite our paper if you use this code in your work:
+```latex
+@article{sacopt,
+  title={SAC-Opt: Semantic Anchors for Iterative Correction in Optimization Modeling},
+  author={Zhang, Yansen and Kang, Qingcan and Chen, Yujie and Wang, Yufei and Han, Xiongwei and Zhong, Tao and Yuan, Mingxuan and Ma, Chen}
+  journal={ICML},
+  year={2026}
+}
+```
+
+## Acknowledgements
+
+Thanks for this repos when developing this one:
+
+[OptiMUS](https://github.com/teshnizi/OptiMUS)
